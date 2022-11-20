@@ -20,9 +20,9 @@ DTSTART:20221102T073000
 DTEND:20221102T150000
 DTSTAMP:20221102T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-02 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-02 07:30:00') - hosin
  fo_end = Timestamp('2022-11-02 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 1
@@ -30,9 +30,9 @@ DTSTART:20221103T073000
 DTEND:20221103T150000
 DTSTAMP:20221103T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-03 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-03 07:30:00') - hosin
  fo_end = Timestamp('2022-11-03 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AMA blå
@@ -40,21 +40,21 @@ DTSTART:20221104T073000
 DTEND:20221104T143000
 DTSTAMP:20221104T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-04 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-04 07:30:00') - hosin
  fo_end = Timestamp('2022-11-04 14:30:00') - time_description = '07:30 - 14
- :30      (Ændret sidst: 20-11-2022 12:35:08)'
+ :30      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221105T000000
 DTEND:20221105T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221106T000000
 DTEND:20221106T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 1
@@ -62,9 +62,9 @@ DTSTART:20221107T073000
 DTEND:20221107T150000
 DTSTAMP:20221107T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-07 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-07 07:30:00') - hosin
  fo_end = Timestamp('2022-11-07 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -72,9 +72,9 @@ DTSTART:20221108T073000
 DTEND:20221108T150000
 DTSTAMP:20221108T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-08 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-08 07:30:00') - hosin
  fo_end = Timestamp('2022-11-08 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 1
@@ -82,9 +82,9 @@ DTSTART:20221109T073000
 DTEND:20221109T150000
 DTSTAMP:20221109T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-09 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-09 07:30:00') - hosin
  fo_end = Timestamp('2022-11-09 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 2
@@ -92,9 +92,9 @@ DTSTART:20221110T073000
 DTEND:20221110T150000
 DTSTAMP:20221110T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-10 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-10 07:30:00') - hosin
  fo_end = Timestamp('2022-11-10 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AMA blå
@@ -102,27 +102,27 @@ DTSTART:20221111T073000
 DTEND:20221111T143000
 DTSTAMP:20221111T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-11 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-11 07:30:00') - hosin
  fo_end = Timestamp('2022-11-11 14:30:00') - time_description = '07:30 - 14
- :30      (Ændret sidst: 20-11-2022 12:35:08)'
+ :30      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221112T000000
 DTEND:20221112T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221113T000000
 DTEND:20221113T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221114T000000
 DTEND:20221114T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -130,9 +130,9 @@ DTSTART:20221115T073000
 DTEND:20221115T150000
 DTSTAMP:20221115T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-15 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-15 07:30:00') - hosin
  fo_end = Timestamp('2022-11-15 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A forvagt
@@ -152,9 +152,9 @@ DTSTART:20221118T073000
 DTEND:20221118T143000
 DTSTAMP:20221118T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-18 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-18 07:30:00') - hosin
  fo_end = Timestamp('2022-11-18 14:30:00') - time_description = '07:30 - 14
- :30      (Ændret sidst: 20-11-2022 12:35:08)'
+ :30      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Senvagt
@@ -162,9 +162,9 @@ DTSTART:20221119T090000
 DTEND:20221119T163000
 DTSTAMP:20221119T090000Z
 DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-19 09:00:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-19 09:00:00') - hosin
  fo_end = Timestamp('2022-11-19 16:30:00') - time_description = '09:00 - 16
- :30      (Ændret sidst: 20-11-2022 12:35:08)'
+ :30      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weekend dag
@@ -172,15 +172,15 @@ DTSTART:20221120T073000
 DTEND:20221120T150000
 DTSTAMP:20221120T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-20 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-20 07:30:00') - hosin
  fo_end = Timestamp('2022-11-20 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221121T000000
 DTEND:20221121T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:>> NY CT  /  Senvagt
@@ -188,9 +188,9 @@ DTSTART:20221122T073000
 DTEND:20221122T163000
 DTSTAMP:20221122T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 16:30      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-22 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-22 07:30:00') - hosin
  fo_end = Timestamp('2022-11-22 16:30:00') - time_description = '07:30 - 16
- :30      (Ændret sidst: 20-11-2022 12:35:08)'
+ :30      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ultralyd
@@ -198,9 +198,9 @@ DTSTART:20221123T073000
 DTEND:20221123T150000
 DTSTAMP:20221123T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-23 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-23 07:30:00') - hosin
  fo_end = Timestamp('2022-11-23 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A forvagt
@@ -218,13 +218,13 @@ BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221126T000000
 DTEND:20221126T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221127T000000
 DTEND:20221127T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:a
@@ -232,9 +232,9 @@ DTSTART:20221128T143000
 DTEND:20221128T220000
 DTSTAMP:20221128T143000Z
 DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-28 14:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-28 14:30:00') - hosin
  fo_end = Timestamp('2022-11-28 22:00:00') - time_description = '14:30 - 22
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ul-3
@@ -242,9 +242,9 @@ DTSTART:20221129T073000
 DTEND:20221129T150000
 DTSTAMP:20221129T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-29 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-29 07:30:00') - hosin
  fo_end = Timestamp('2022-11-29 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ultralyd
@@ -252,9 +252,9 @@ DTSTART:20221130T073000
 DTEND:20221130T150000
 DTSTAMP:20221130T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-11-30 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-11-30 07:30:00') - hosin
  fo_end = Timestamp('2022-11-30 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 2
@@ -262,9 +262,9 @@ DTSTART:20221201T073000
 DTEND:20221201T150000
 DTSTAMP:20221201T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-01 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-01 07:30:00') - hosin
  fo_end = Timestamp('2022-12-01 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -272,21 +272,21 @@ DTSTART:20221202T073000
 DTEND:20221202T143000
 DTSTAMP:20221202T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-02 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-02 07:30:00') - hosin
  fo_end = Timestamp('2022-12-02 14:30:00') - time_description = '07:30 - 14
- :30      (Ændret sidst: 20-11-2022 12:35:08)'
+ :30      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221203T000000
 DTEND:20221203T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221204T000000
 DTEND:20221204T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 1
@@ -294,9 +294,9 @@ DTSTART:20221205T073000
 DTEND:20221205T150000
 DTSTAMP:20221205T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-05 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-05 07:30:00') - hosin
  fo_end = Timestamp('2022-12-05 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -304,9 +304,9 @@ DTSTART:20221206T073000
 DTEND:20221206T150000
 DTSTAMP:20221206T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-06 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-06 07:30:00') - hosin
  fo_end = Timestamp('2022-12-06 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blå
@@ -314,9 +314,9 @@ DTSTART:20221207T073000
 DTEND:20221207T150000
 DTSTAMP:20221207T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-07 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-07 07:30:00') - hosin
  fo_end = Timestamp('2022-12-07 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ultralyd
@@ -324,9 +324,9 @@ DTSTART:20221208T073000
 DTEND:20221208T150000
 DTSTAMP:20221208T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-08 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-08 07:30:00') - hosin
  fo_end = Timestamp('2022-12-08 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blå
@@ -334,21 +334,21 @@ DTSTART:20221209T073000
 DTEND:20221209T143000
 DTSTAMP:20221209T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-09 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-09 07:30:00') - hosin
  fo_end = Timestamp('2022-12-09 14:30:00') - time_description = '07:30 - 14
- :30      (Ændret sidst: 20-11-2022 12:35:08)'
+ :30      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221210T000000
 DTEND:20221210T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221211T000000
 DTEND:20221211T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  fri sh-dag
@@ -356,9 +356,9 @@ DTSTART:20221212T073000
 DTEND:20221212T150000
 DTSTAMP:20221212T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 Fri SH-dag    (Ændret sid
- st: 20-11-2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-12 07:30:00'
+ st: 20-11-2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-12 07:30:00'
  ) - hosinfo_end = Timestamp('2022-12-12 15:00:00') - time_description = '0
- 7:30 - 15:00 Fri SH-dag    (Ændret sidst: 20-11-2022 12:35:08)'
+ 7:30 - 15:00 Fri SH-dag    (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -366,9 +366,9 @@ DTSTART:20221213T073000
 DTEND:20221213T150000
 DTSTAMP:20221213T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 2
- 0-11-2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-13 07:30:00') - h
+ 0-11-2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-13 07:30:00') - h
  osinfo_end = Timestamp('2022-12-13 15:00:00') - time_description = '07:30 
- - 15:00 Ferie    (Ændret sidst: 20-11-2022 12:35:08)'
+ - 15:00 Ferie    (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -376,9 +376,9 @@ DTSTART:20221214T073000
 DTEND:20221214T150000
 DTSTAMP:20221214T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 2
- 0-11-2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-14 07:30:00') - h
+ 0-11-2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-14 07:30:00') - h
  osinfo_end = Timestamp('2022-12-14 15:00:00') - time_description = '07:30 
- - 15:00 Ferie    (Ændret sidst: 20-11-2022 12:35:08)'
+ - 15:00 Ferie    (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -386,15 +386,15 @@ DTSTART:20221215T073000
 DTEND:20221215T150000
 DTSTAMP:20221215T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 2
- 0-11-2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-15 07:30:00') - h
+ 0-11-2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-15 07:30:00') - h
  osinfo_end = Timestamp('2022-12-15 15:00:00') - time_description = '07:30 
- - 15:00 Ferie    (Ændret sidst: 20-11-2022 12:35:08)'
+ - 15:00 Ferie    (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221216T000000
 DTEND:20221216T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:a
@@ -402,9 +402,9 @@ DTSTART:20221217T143000
 DTEND:20221217T220000
 DTSTAMP:20221217T143000Z
 DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-17 14:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-17 14:30:00') - hosin
  fo_end = Timestamp('2022-12-17 22:00:00') - time_description = '14:30 - 22
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:a
@@ -412,9 +412,9 @@ DTSTART:20221218T143000
 DTEND:20221218T220000
 DTSTAMP:20221218T143000Z
 DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-18 14:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-18 14:30:00') - hosin
  fo_end = Timestamp('2022-12-18 22:00:00') - time_description = '14:30 - 22
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:>> Blå  /  Senvagt
@@ -422,9 +422,9 @@ DTSTART:20221219T090000
 DTEND:20221219T163000
 DTSTAMP:20221219T090000Z
 DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-19 09:00:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-19 09:00:00') - hosin
  fo_end = Timestamp('2022-12-19 16:30:00') - time_description = '09:00 - 16
- :30      (Ændret sidst: 20-11-2022 12:35:08)'
+ :30      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -432,15 +432,15 @@ DTSTART:20221220T073000
 DTEND:20221220T150000
 DTSTAMP:20221220T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-20 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-20 07:30:00') - hosin
  fo_end = Timestamp('2022-12-20 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221221T000000
 DTEND:20221221T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekstra
@@ -448,9 +448,9 @@ DTSTART:20221222T073000
 DTEND:20221222T150000
 DTSTAMP:20221222T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-22 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-22 07:30:00') - hosin
  fo_end = Timestamp('2022-12-22 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AMA blå
@@ -458,21 +458,21 @@ DTSTART:20221223T073000
 DTEND:20221223T143000
 DTSTAMP:20221223T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-23 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-23 07:30:00') - hosin
  fo_end = Timestamp('2022-12-23 14:30:00') - time_description = '07:30 - 14
- :30      (Ændret sidst: 20-11-2022 12:35:08)'
+ :30      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221224T000000
 DTEND:20221224T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221225T000000
 DTEND:20221225T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  fri sh-dag
@@ -490,9 +490,9 @@ DTSTART:20221227T073000
 DTEND:20221227T150000
 DTSTAMP:20221227T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-27 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-27 07:30:00') - hosin
  fo_end = Timestamp('2022-12-27 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -500,9 +500,9 @@ DTSTART:20221228T073000
 DTEND:20221228T150000
 DTSTAMP:20221228T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-28 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-28 07:30:00') - hosin
  fo_end = Timestamp('2022-12-28 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  afsp 10 - 11:30
@@ -510,9 +510,9 @@ DTSTART:20221229T100000
 DTEND:20221229T113000
 DTSTAMP:20221229T100000Z
 DESCRIPTION:Hosinfo description: "10:00 - 11:30 Afsp    (Ændret sidst: 20
- -11-2022 12:35:08)"\nhosinfo_start = Timestamp('2022-12-29 10:00:00') - ho
+ -11-2022 15:36:55)"\nhosinfo_start = Timestamp('2022-12-29 10:00:00') - ho
  sinfo_end = Timestamp('2022-12-29 11:30:00') - time_description = '10:00 -
-  11:30 Afsp    (Ændret sidst: 20-11-2022 12:35:08)'
+  11:30 Afsp    (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grenå
@@ -528,13 +528,13 @@ BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20221231T000000
 DTEND:20221231T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20230101T000000
 DTEND:20230101T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ul-3
@@ -542,9 +542,9 @@ DTSTART:20230102T073000
 DTEND:20230102T150000
 DTSTAMP:20230102T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2023-01-02 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2023-01-02 07:30:00') - hosin
  fo_end = Timestamp('2023-01-02 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekstra
@@ -552,9 +552,9 @@ DTSTART:20230103T073000
 DTEND:20230103T150000
 DTSTAMP:20230103T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2023-01-03 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2023-01-03 07:30:00') - hosin
  fo_end = Timestamp('2023-01-03 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekstra
@@ -562,9 +562,9 @@ DTSTART:20230104T073000
 DTEND:20230104T150000
 DTSTAMP:20230104T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2023-01-04 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2023-01-04 07:30:00') - hosin
  fo_end = Timestamp('2023-01-04 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekstra
@@ -572,9 +572,9 @@ DTSTART:20230105T073000
 DTEND:20230105T150000
 DTSTAMP:20230105T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2023-01-05 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2023-01-05 07:30:00') - hosin
  fo_end = Timestamp('2023-01-05 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekstra
@@ -582,27 +582,27 @@ DTSTART:20230106T073000
 DTEND:20230106T143000
 DTSTAMP:20230106T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2023-01-06 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2023-01-06 07:30:00') - hosin
  fo_end = Timestamp('2023-01-06 14:30:00') - time_description = '07:30 - 14
- :30      (Ændret sidst: 20-11-2022 12:35:08)'
+ :30      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20230107T000000
 DTEND:20230107T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20230108T000000
 DTEND:20230108T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20230109T000000
 DTEND:20230109T235900
-DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 12:35:08)
+DESCRIPTION: -  bf    (Ændret sidst: 20-11-2022 15:36:55)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekstra
@@ -610,9 +610,9 @@ DTSTART:20230110T073000
 DTEND:20230110T150000
 DTSTAMP:20230110T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2023-01-10 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2023-01-10 07:30:00') - hosin
  fo_end = Timestamp('2023-01-10 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekstra
@@ -620,9 +620,9 @@ DTSTART:20230111T073000
 DTEND:20230111T150000
 DTSTAMP:20230111T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2023-01-11 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2023-01-11 07:30:00') - hosin
  fo_end = Timestamp('2023-01-11 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekstra
@@ -630,9 +630,9 @@ DTSTART:20230112T073000
 DTEND:20230112T150000
 DTSTAMP:20230112T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2023-01-12 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2023-01-12 07:30:00') - hosin
  fo_end = Timestamp('2023-01-12 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekstra
@@ -640,9 +640,9 @@ DTSTART:20230113T073000
 DTEND:20230113T143000
 DTSTAMP:20230113T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2023-01-13 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2023-01-13 07:30:00') - hosin
  fo_end = Timestamp('2023-01-13 14:30:00') - time_description = '07:30 - 14
- :30      (Ændret sidst: 20-11-2022 12:35:08)'
+ :30      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Senvagt
@@ -650,9 +650,9 @@ DTSTART:20230114T090000
 DTEND:20230114T163000
 DTSTAMP:20230114T090000Z
 DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2023-01-14 09:00:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2023-01-14 09:00:00') - hosin
  fo_end = Timestamp('2023-01-14 16:30:00') - time_description = '09:00 - 16
- :30      (Ændret sidst: 20-11-2022 12:35:08)'
+ :30      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weekend dag
@@ -660,8 +660,8 @@ DTSTART:20230115T073000
 DTEND:20230115T150000
 DTSTAMP:20230115T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 20-11
- -2022 12:35:08)"\nhosinfo_start = Timestamp('2023-01-15 07:30:00') - hosin
+ -2022 15:36:55)"\nhosinfo_start = Timestamp('2023-01-15 07:30:00') - hosin
  fo_end = Timestamp('2023-01-15 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 20-11-2022 12:35:08)'
+ :00      (Ændret sidst: 20-11-2022 15:36:55)'
 END:VEVENT
 END:VCALENDAR

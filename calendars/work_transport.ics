@@ -132,24 +132,6 @@ DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
-DTSTART:20240417T064500
-DTEND:20240417T073000
-DTSTAMP:20240417T064500Z
-DESCRIPTION:Hosinfo Summary: " /  tj.frihed m-løn 07:30 - 12"\nHosinfo de
- scription: "07:30 - 12:00 Tj.frihed m-løn /  12:00 - 15:00 Afsp    (Ændr
- et"
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tranport hjem
-DTSTART:20240417T115500
-DTEND:20240417T124500
-DTSTAMP:20240417T120000Z
-DESCRIPTION:Hosinfo Summary: " /  tj.frihed m-løn 07:30 - 12"\nHosinfo de
- scription: "07:30 - 12:00 Tj.frihed m-løn /  12:00 - 15:00 Afsp    (Ændr
- et"
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tranport til arbejde
 DTSTART:20240418T064500
 DTEND:20240418T073000
 DTSTAMP:20240418T064500Z

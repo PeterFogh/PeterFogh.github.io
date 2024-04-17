@@ -8,7 +8,7 @@ DTSTART:20240402T064500
 DTEND:20240402T073000
 DTSTAMP:20240402T064500Z
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Ændret sidst: 17-04-2024 12:00:07)"
+     (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -16,7 +16,7 @@ DTSTART:20240402T145500
 DTEND:20240402T154500
 DTSTAMP:20240402T150000Z
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Ændret sidst: 17-04-2024 12:00:07)"
+     (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -24,7 +24,7 @@ DTSTART:20240403T064500
 DTEND:20240403T073000
 DTSTAMP:20240403T064500Z
 DESCRIPTION:Hosinfo Summary: "AMA blå"\nHosinfo description: "07:30 - 15:
- 00      (Ændret sidst: 17-04-2024 12:00:07)"
+ 00      (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -32,7 +32,7 @@ DTSTART:20240403T145500
 DTEND:20240403T154500
 DTSTAMP:20240403T150000Z
 DESCRIPTION:Hosinfo Summary: "AMA blå"\nHosinfo description: "07:30 - 15:
- 00      (Ændret sidst: 17-04-2024 12:00:07)"
+ 00      (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -40,7 +40,7 @@ DTSTART:20240404T064500
 DTEND:20240404T073000
 DTSTAMP:20240404T064500Z
 DESCRIPTION:Hosinfo Summary: "Blå"\nHosinfo description: "07:30 - 15:00  
-     (Ændret sidst: 17-04-2024 12:00:07)"
+     (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -48,7 +48,7 @@ DTSTART:20240404T145500
 DTEND:20240404T154500
 DTSTAMP:20240404T150000Z
 DESCRIPTION:Hosinfo Summary: "Blå"\nHosinfo description: "07:30 - 15:00  
-     (Ændret sidst: 17-04-2024 12:00:07)"
+     (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -56,7 +56,7 @@ DTSTART:20240406T081500
 DTEND:20240406T090000
 DTSTAMP:20240406T081500Z
 DESCRIPTION:Hosinfo Summary: "Senvagt"\nHosinfo description: "09:00 - 16:3
- 0      (Ændret sidst: 17-04-2024 12:00:07)"
+ 0      (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -64,7 +64,7 @@ DTSTART:20240406T162500
 DTEND:20240406T171500
 DTSTAMP:20240406T163000Z
 DESCRIPTION:Hosinfo Summary: "Senvagt"\nHosinfo description: "09:00 - 16:3
- 0      (Ændret sidst: 17-04-2024 12:00:07)"
+ 0      (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -72,7 +72,7 @@ DTSTART:20240407T064500
 DTEND:20240407T073000
 DTSTAMP:20240407T064500Z
 DESCRIPTION:Hosinfo Summary: "Weekend dag"\nHosinfo description: "07:30 - 
- 15:00      (Ændret sidst: 17-04-2024 12:00:07)"
+ 15:00      (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -80,7 +80,7 @@ DTSTART:20240407T145500
 DTEND:20240407T154500
 DTSTAMP:20240407T150000Z
 DESCRIPTION:Hosinfo Summary: "Weekend dag"\nHosinfo description: "07:30 - 
- 15:00      (Ændret sidst: 17-04-2024 12:00:07)"
+ 15:00      (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -104,7 +104,7 @@ DTSTART:20240415T130000
 DTEND:20240415T143000
 DTSTAMP:20240415T130000Z
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Ændret sidst: 17-04-2024 12:00:07)"
+  (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -112,7 +112,7 @@ DTSTART:20240415T215500
 DTEND:20240415T233000
 DTSTAMP:20240415T220000Z
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Ændret sidst: 17-04-2024 12:00:07)"
+  (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -120,7 +120,7 @@ DTSTART:20240416T064500
 DTEND:20240416T073000
 DTSTAMP:20240416T064500Z
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Ændret sidst: 17-04-2024 12:00:07)"
+     (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -128,7 +128,7 @@ DTSTART:20240416T145500
 DTEND:20240416T154500
 DTSTAMP:20240416T150000Z
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Ændret sidst: 17-04-2024 12:00:07)"
+     (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -136,7 +136,7 @@ DTSTART:20240418T064500
 DTEND:20240418T073000
 DTSTAMP:20240418T064500Z
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Ændret sidst: 17-04-2024 12:00:07)"
+       (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -144,7 +144,7 @@ DTSTART:20240418T145500
 DTEND:20240418T154500
 DTSTAMP:20240418T150000Z
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Ændret sidst: 17-04-2024 12:00:07)"
+       (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -152,7 +152,7 @@ DTSTART:20240419T081500
 DTEND:20240419T090000
 DTSTAMP:20240419T081500Z
 DESCRIPTION:Hosinfo Summary: ">> AMA blå  /  Senvagt"\nHosinfo descriptio
- n: "09:00 - 16:30      (Ændret sidst: 17-04-2024 12:00:07)"
+ n: "09:00 - 16:30      (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -160,6 +160,6 @@ DTSTART:20240419T162500
 DTEND:20240419T171500
 DTSTAMP:20240419T163000Z
 DESCRIPTION:Hosinfo Summary: ">> AMA blå  /  Senvagt"\nHosinfo descriptio
- n: "09:00 - 16:30      (Ændret sidst: 17-04-2024 12:00:07)"
+ n: "09:00 - 16:30      (Ændret sidst: 17-04-2024 16:10:11)"
 END:VEVENT
 END:VCALENDAR

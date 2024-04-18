@@ -6,7 +6,7 @@ BEGIN:VEVENT
 SUMMARY: /  fri sh
 DTSTART:20240401T000000
 DTEND:20240401T235900
-DESCRIPTION: -  Fri SH    (Ændret sidst: 18-04-2024 06:37:12)
+DESCRIPTION: -  Fri SH    (Ændret sidst: 18-04-2024 12:37:38)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ul-3
@@ -14,9 +14,9 @@ DTSTART:20240402T073000
 DTEND:20240402T150000
 DTSTAMP:20240402T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 18-04
- -2024 06:37:12)"\nhosinfo_start = Timestamp('2024-04-02 07:30:00') - hosin
+ -2024 12:37:38)"\nhosinfo_start = Timestamp('2024-04-02 07:30:00') - hosin
  fo_end = Timestamp('2024-04-02 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 18-04-2024 06:37:12)'
+ :00      (Ændret sidst: 18-04-2024 12:37:38)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AMA blå
@@ -24,9 +24,9 @@ DTSTART:20240403T073000
 DTEND:20240403T150000
 DTSTAMP:20240403T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 18-04
- -2024 06:37:12)"\nhosinfo_start = Timestamp('2024-04-03 07:30:00') - hosin
+ -2024 12:37:38)"\nhosinfo_start = Timestamp('2024-04-03 07:30:00') - hosin
  fo_end = Timestamp('2024-04-03 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 18-04-2024 06:37:12)'
+ :00      (Ændret sidst: 18-04-2024 12:37:38)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blå
@@ -34,15 +34,15 @@ DTSTART:20240404T073000
 DTEND:20240404T150000
 DTSTAMP:20240404T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 18-04
- -2024 06:37:12)"\nhosinfo_start = Timestamp('2024-04-04 07:30:00') - hosin
+ -2024 12:37:38)"\nhosinfo_start = Timestamp('2024-04-04 07:30:00') - hosin
  fo_end = Timestamp('2024-04-04 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 18-04-2024 06:37:12)'
+ :00      (Ændret sidst: 18-04-2024 12:37:38)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20240405T000000
 DTEND:20240405T235900
-DESCRIPTION: -  bf    (Ændret sidst: 18-04-2024 06:37:12)
+DESCRIPTION: -  bf    (Ændret sidst: 18-04-2024 12:37:38)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Senvagt
@@ -50,9 +50,9 @@ DTSTART:20240406T090000
 DTEND:20240406T163000
 DTSTAMP:20240406T090000Z
 DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 18-04
- -2024 06:37:12)"\nhosinfo_start = Timestamp('2024-04-06 09:00:00') - hosin
+ -2024 12:37:38)"\nhosinfo_start = Timestamp('2024-04-06 09:00:00') - hosin
  fo_end = Timestamp('2024-04-06 16:30:00') - time_description = '09:00 - 16
- :30      (Ændret sidst: 18-04-2024 06:37:12)'
+ :30      (Ændret sidst: 18-04-2024 12:37:38)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weekend dag
@@ -60,15 +60,15 @@ DTSTART:20240407T073000
 DTEND:20240407T150000
 DTSTAMP:20240407T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 18-04
- -2024 06:37:12)"\nhosinfo_start = Timestamp('2024-04-07 07:30:00') - hosin
+ -2024 12:37:38)"\nhosinfo_start = Timestamp('2024-04-07 07:30:00') - hosin
  fo_end = Timestamp('2024-04-07 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 18-04-2024 06:37:12)'
+ :00      (Ændret sidst: 18-04-2024 12:37:38)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20240408T000000
 DTEND:20240408T235900
-DESCRIPTION: -  bf    (Ændret sidst: 18-04-2024 06:37:12)
+DESCRIPTION: -  bf    (Ændret sidst: 18-04-2024 12:37:38)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  afsp 07:30 - 16:30
@@ -76,9 +76,9 @@ DTSTART:20240409T073000
 DTEND:20240409T163000
 DTSTAMP:20240409T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 16:30 900\\100    (Ændret sidst
- : 18-04-2024 06:37:12)"\nhosinfo_start = Timestamp('2024-04-09 07:30:00') 
+ : 18-04-2024 12:37:38)"\nhosinfo_start = Timestamp('2024-04-09 07:30:00') 
  - hosinfo_end = Timestamp('2024-04-09 16:30:00') - time_description = '07:
- 30 - 16:30 900\\\\100    (Ændret sidst: 18-04-2024 06:37:12)'
+ 30 - 16:30 900\\\\100    (Ændret sidst: 18-04-2024 12:37:38)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  afsp 07:30 - 15
@@ -86,9 +86,9 @@ DTSTART:20240410T073000
 DTEND:20240410T150000
 DTSTAMP:20240410T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 900\\100    (Ændret sidst
- : 18-04-2024 06:37:12)"\nhosinfo_start = Timestamp('2024-04-10 07:30:00') 
+ : 18-04-2024 12:37:38)"\nhosinfo_start = Timestamp('2024-04-10 07:30:00') 
  - hosinfo_end = Timestamp('2024-04-10 15:00:00') - time_description = '07:
- 30 - 15:00 900\\\\100    (Ændret sidst: 18-04-2024 06:37:12)'
+ 30 - 15:00 900\\\\100    (Ændret sidst: 18-04-2024 12:37:38)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A forvagt
@@ -106,13 +106,13 @@ BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20240413T000000
 DTEND:20240413T235900
-DESCRIPTION: -  bf    (Ændret sidst: 18-04-2024 06:37:12)
+DESCRIPTION: -  bf    (Ændret sidst: 18-04-2024 12:37:38)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20240414T000000
 DTEND:20240414T235900
-DESCRIPTION: -  bf    (Ændret sidst: 18-04-2024 06:37:12)
+DESCRIPTION: -  bf    (Ændret sidst: 18-04-2024 12:37:38)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:a
@@ -120,9 +120,9 @@ DTSTART:20240415T143000
 DTEND:20240415T220000
 DTSTAMP:20240415T143000Z
 DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 18-04
- -2024 06:37:12)"\nhosinfo_start = Timestamp('2024-04-15 14:30:00') - hosin
+ -2024 12:37:38)"\nhosinfo_start = Timestamp('2024-04-15 14:30:00') - hosin
  fo_end = Timestamp('2024-04-15 22:00:00') - time_description = '14:30 - 22
- :00      (Ændret sidst: 18-04-2024 06:37:12)'
+ :00      (Ændret sidst: 18-04-2024 12:37:38)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ul-3
@@ -130,9 +130,9 @@ DTSTART:20240416T073000
 DTEND:20240416T150000
 DTSTAMP:20240416T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 18-04
- -2024 06:37:12)"\nhosinfo_start = Timestamp('2024-04-16 07:30:00') - hosin
+ -2024 12:37:38)"\nhosinfo_start = Timestamp('2024-04-16 07:30:00') - hosin
  fo_end = Timestamp('2024-04-16 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 18-04-2024 06:37:12)'
+ :00      (Ændret sidst: 18-04-2024 12:37:38)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  tj.frihed m-løn 07:30 - 12
@@ -145,14 +145,14 @@ DESCRIPTION:Hosinfo description: "07:30 - 12:00 Tj.frihed m-løn /  12:00
  7:30 - 12:00 Tj.frihed m-løn /  12:00 - 15:00 Afsp    (Ændret'
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ekstra
+SUMMARY:Blå
 DTSTART:20240418T073000
 DTEND:20240418T150000
 DTSTAMP:20240418T073000Z
 DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 18-04
- -2024 06:37:12)"\nhosinfo_start = Timestamp('2024-04-18 07:30:00') - hosin
+ -2024 12:37:39)"\nhosinfo_start = Timestamp('2024-04-18 07:30:00') - hosin
  fo_end = Timestamp('2024-04-18 15:00:00') - time_description = '07:30 - 15
- :00      (Ændret sidst: 18-04-2024 06:37:12)'
+ :00      (Ændret sidst: 18-04-2024 12:37:39)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:>> AMA blå  /  Senvagt
@@ -160,14 +160,14 @@ DTSTART:20240419T090000
 DTEND:20240419T163000
 DTSTAMP:20240419T090000Z
 DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 18-04
- -2024 06:37:12)"\nhosinfo_start = Timestamp('2024-04-19 09:00:00') - hosin
+ -2024 12:37:39)"\nhosinfo_start = Timestamp('2024-04-19 09:00:00') - hosin
  fo_end = Timestamp('2024-04-19 16:30:00') - time_description = '09:00 - 16
- :30      (Ændret sidst: 18-04-2024 06:37:12)'
+ :30      (Ændret sidst: 18-04-2024 12:37:39)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
 DTSTART:20240420T000000
 DTEND:20240420T235900
-DESCRIPTION: -  bf    (Ændret sidst: 18-04-2024 06:37:12)
+DESCRIPTION: -  bf    (Ændret sidst: 18-04-2024 12:37:39)
 END:VEVENT
 END:VCALENDAR

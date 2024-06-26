@@ -5,228 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hosinfo+
 BEGIN:VEVENT
-SUMMARY:Senvagt
-DTSTART;TZID=Europe/Copenhagen:20240520T090000
-DTEND;TZID=Europe/Copenhagen:20240520T163000
-DTSTAMP:20240520T070000Z
-UID:b20240520111SV09001630100Senvagt
-DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-05-20 09:00:00+0200'\, t
- z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-05-20 16:30:00+0200
- '\, tz='Europe/Copenhagen') - time_description = '09:00 - 16:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: /  bf
-DTSTART;TZID=Europe/Copenhagen:20240521T000000
-DTEND;TZID=Europe/Copenhagen:20240521T235900
-DTSTAMP:20240520T220000Z
-UID:b20240521111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CT 3
-DTSTART;TZID=Europe/Copenhagen:20240522T073000
-DTEND;TZID=Europe/Copenhagen:20240522T150000
-DTSTAMP:20240522T053000Z
-UID:b20240522111dv07301500100CT3
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-05-22 07:30:00+0200'\, t
- z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-05-22 15:00:00+0200
- '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blå
-DTSTART;TZID=Europe/Copenhagen:20240523T073000
-DTEND;TZID=Europe/Copenhagen:20240523T150000
-DTSTAMP:20240523T053000Z
-UID:b20240523111dv07301500100Blå
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-05-23 07:30:00+0200'\, t
- z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-05-23 15:00:00+0200
- '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CT 2
-DTSTART;TZID=Europe/Copenhagen:20240524T073000
-DTEND;TZID=Europe/Copenhagen:20240524T143000
-DTSTAMP:20240524T053000Z
-UID:b20240524111dvf07301430100CT2
-DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-05-24 07:30:00+0200'\, t
- z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-05-24 14:30:00+0200
- '\, tz='Europe/Copenhagen') - time_description = '07:30 - 14:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: /  bf
-DTSTART;TZID=Europe/Copenhagen:20240525T000000
-DTEND;TZID=Europe/Copenhagen:20240525T235900
-DTSTAMP:20240524T220000Z
-UID:b20240525111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: /  bf
-DTSTART;TZID=Europe/Copenhagen:20240526T000000
-DTEND;TZID=Europe/Copenhagen:20240526T235900
-DTSTAMP:20240525T220000Z
-UID:b20240526111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: /  bf
-DTSTART;TZID=Europe/Copenhagen:20240527T000000
-DTEND;TZID=Europe/Copenhagen:20240527T235900
-DTSTAMP:20240526T220000Z
-UID:b20240527111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blå
-DTSTART;TZID=Europe/Copenhagen:20240528T073000
-DTEND;TZID=Europe/Copenhagen:20240528T150000
-DTSTAMP:20240528T053000Z
-UID:b20240528111dv07301500100Blå
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-05-28 07:30:00+0200'\, t
- z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-05-28 15:00:00+0200
- '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ul-3
-DTSTART;TZID=Europe/Copenhagen:20240529T073000
-DTEND;TZID=Europe/Copenhagen:20240529T150000
-DTSTAMP:20240529T053000Z
-UID:b20240529111dv07301500100Ul3
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-05-29 07:30:00+0200'\, t
- z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-05-29 15:00:00+0200
- '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blå
-DTSTART;TZID=Europe/Copenhagen:20240530T073000
-DTEND;TZID=Europe/Copenhagen:20240530T150000
-DTSTAMP:20240530T053000Z
-UID:b20240530111dv07301500100Blå
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-05-30 07:30:00+0200'\, t
- z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-05-30 15:00:00+0200
- '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: /  afsp 07:30 - 14:30
-DTSTART;TZID=Europe/Copenhagen:20240531T073000
-DTEND;TZID=Europe/Copenhagen:20240531T143000
-DTSTAMP:20240531T053000Z
-UID:b2024053111107301430900\\100afsp07301430
-DESCRIPTION:Hosinfo description: "07:30 - 14:30 900\\100    (Ændret sidst
- : 09-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-05-31 07:30:00+02
- 00'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-05-31 14:30:
- 00+0200'\, tz='Europe/Copenhagen') - time_description = '07:30 - 14:30 900
- \\\\100    (Ændret sidst: 09-06-2024 20:57:51)'
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Senvagt
-DTSTART;TZID=Europe/Copenhagen:20240601T090000
-DTEND;TZID=Europe/Copenhagen:20240601T163000
-DTSTAMP:20240601T070000Z
-UID:b20240601111SV09001630100Senvagt
-DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-01 09:00:00+0200'\, t
- z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-01 16:30:00+0200
- '\, tz='Europe/Copenhagen') - time_description = '09:00 - 16:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Weekend dag
-DTSTART;TZID=Europe/Copenhagen:20240602T073000
-DTEND;TZID=Europe/Copenhagen:20240602T150000
-DTSTAMP:20240602T053000Z
-UID:b20240602111dv07301500100Weekenddag
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-02 07:30:00+0200'\, t
- z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-02 15:00:00+0200
- '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: /  bf
-DTSTART;TZID=Europe/Copenhagen:20240603T000000
-DTEND;TZID=Europe/Copenhagen:20240603T235900
-DTSTAMP:20240602T220000Z
-UID:b20240603111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:>> AMA blå  /  Senvagt
-DTSTART;TZID=Europe/Copenhagen:20240604T073000
-DTEND;TZID=Europe/Copenhagen:20240604T163000
-DTSTAMP:20240604T053000Z
-UID:b20240604111LSV07301630100AMAblåSenvagt
-DESCRIPTION:Hosinfo description: "07:30 - 16:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-04 07:30:00+0200'\, t
- z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-04 16:30:00+0200
- '\, tz='Europe/Copenhagen') - time_description = '07:30 - 16:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CT 3
-DTSTART;TZID=Europe/Copenhagen:20240605T073000
-DTEND;TZID=Europe/Copenhagen:20240605T150000
-DTSTAMP:20240605T053000Z
-UID:b20240605111dv07301500100CT3
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-05 07:30:00+0200'\, t
- z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-05 15:00:00+0200
- '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Bagvagt
-DTSTART;TZID=Europe/Copenhagen:20240606T163000
-DTEND;TZID=Europe/Copenhagen:20240607T073000
-DTSTAMP:20240606T143000Z
-UID:b20240606111A1630240010000000730290ABagvagt
-DESCRIPTION:Hosinfo description: "16:30 - 00:00   /  00:00 - 07:30 Tilkald
-  v.vær.    (Ændret sid"\nhosinfo_start = Timestamp('2024-06-06 16:30:00+
- 0200'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-07 07:3
- 0:00+0200'\, tz='Europe/Copenhagen') - time_description = '16:30 - 07:30 T
- ilkald v.vær.    (Ændret sid'
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: /  bf
-DTSTART;TZID=Europe/Copenhagen:20240608T000000
-DTEND;TZID=Europe/Copenhagen:20240608T235900
-DTSTAMP:20240607T220000Z
-UID:b20240608111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: /  bf
-DTSTART;TZID=Europe/Copenhagen:20240609T000000
-DTEND;TZID=Europe/Copenhagen:20240609T235900
-DTSTAMP:20240608T220000Z
-UID:b20240609111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:a
 DTSTART;TZID=Europe/Copenhagen:20240610T143000
 DTEND;TZID=Europe/Copenhagen:20240610T220000
 DTSTAMP:20240610T123000Z
 UID:b20240610111a14302200100a
-DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-10 14:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-10 14:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-10 22:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '14:30 - 22:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ultralyd
@@ -234,11 +22,11 @@ DTSTART;TZID=Europe/Copenhagen:20240611T073000
 DTEND;TZID=Europe/Copenhagen:20240611T150000
 DTSTAMP:20240611T053000Z
 UID:b20240611111dv07301500100Ultralyd
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-11 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-11 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-11 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blå
@@ -246,11 +34,11 @@ DTSTART;TZID=Europe/Copenhagen:20240612T073000
 DTEND;TZID=Europe/Copenhagen:20240612T150000
 DTSTAMP:20240612T053000Z
 UID:b20240612111dv07301500100Blå
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-12 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-12 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-12 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -258,23 +46,23 @@ DTSTART;TZID=Europe/Copenhagen:20240613T073000
 DTEND;TZID=Europe/Copenhagen:20240613T150000
 DTSTAMP:20240613T053000Z
 UID:b20240613111dv07301500100CTAMA
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-13 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-13 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-13 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:>> Ekstra  /  Senvagt
+SUMMARY:>> AMA blå  /  Senvagt
 DTSTART;TZID=Europe/Copenhagen:20240614T090000
 DTEND;TZID=Europe/Copenhagen:20240614T163000
 DTSTAMP:20240614T070000Z
-UID:b20240614111SV09001630100EkstraSenvagt
-DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-14 09:00:00+0200'\, t
+UID:b20240614111SV09001630100AMAblåSenvagt
+DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-14 09:00:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-14 16:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '09:00 - 16:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -282,7 +70,7 @@ DTSTART;TZID=Europe/Copenhagen:20240615T000000
 DTEND;TZID=Europe/Copenhagen:20240615T235900
 DTSTAMP:20240614T220000Z
 UID:b20240615111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -290,7 +78,7 @@ DTSTART;TZID=Europe/Copenhagen:20240616T000000
 DTEND;TZID=Europe/Copenhagen:20240616T235900
 DTSTAMP:20240615T220000Z
 UID:b20240616111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blå
@@ -298,35 +86,35 @@ DTSTART;TZID=Europe/Copenhagen:20240617T073000
 DTEND;TZID=Europe/Copenhagen:20240617T150000
 DTSTAMP:20240617T053000Z
 UID:b20240617111dv07301500100Blå
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-17 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-17 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-17 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ul-3
+SUMMARY:Blå
 DTSTART;TZID=Europe/Copenhagen:20240618T073000
 DTEND;TZID=Europe/Copenhagen:20240618T150000
 DTSTAMP:20240618T053000Z
-UID:b20240618111dv07301500100Ul3
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-18 07:30:00+0200'\, t
+UID:b20240618111dv07301500100Blå
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-18 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-18 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AMA blå
+SUMMARY:Blå
 DTSTART;TZID=Europe/Copenhagen:20240619T073000
 DTEND;TZID=Europe/Copenhagen:20240619T150000
 DTSTAMP:20240619T053000Z
-UID:b20240619111dv07301500100AMAblå
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-19 07:30:00+0200'\, t
+UID:b20240619111dv07301500100Blå
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-19 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-19 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blå
@@ -334,11 +122,11 @@ DTSTART;TZID=Europe/Copenhagen:20240620T073000
 DTEND;TZID=Europe/Copenhagen:20240620T150000
 DTSTAMP:20240620T053000Z
 UID:b20240620111dv07301500100Blå
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-20 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-20 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-20 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -346,11 +134,11 @@ DTSTART;TZID=Europe/Copenhagen:20240621T073000
 DTEND;TZID=Europe/Copenhagen:20240621T143000
 DTSTAMP:20240621T053000Z
 UID:b20240621111dvf07301430100CTAMA
-DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-21 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-21 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-21 14:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 14:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -358,7 +146,7 @@ DTSTART;TZID=Europe/Copenhagen:20240622T000000
 DTEND;TZID=Europe/Copenhagen:20240622T235900
 DTSTAMP:20240621T220000Z
 UID:b20240622111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -366,7 +154,7 @@ DTSTART;TZID=Europe/Copenhagen:20240623T000000
 DTEND;TZID=Europe/Copenhagen:20240623T235900
 DTSTAMP:20240622T220000Z
 UID:b20240623111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 3
@@ -374,23 +162,23 @@ DTSTART;TZID=Europe/Copenhagen:20240624T073000
 DTEND;TZID=Europe/Copenhagen:20240624T150000
 DTSTAMP:20240624T053000Z
 UID:b20240624111dv07301500100CT3
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-24 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-24 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-24 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ekstra
+SUMMARY:CT 2
 DTSTART;TZID=Europe/Copenhagen:20240625T073000
 DTEND;TZID=Europe/Copenhagen:20240625T150000
 DTSTAMP:20240625T053000Z
-UID:b20240625111dv07301500100Ekstra
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-25 07:30:00+0200'\, t
+UID:b20240625111dv07301500100CT2
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-25 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-25 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:>> Ul-3  /  Senvagt
@@ -398,11 +186,11 @@ DTSTART;TZID=Europe/Copenhagen:20240626T073000
 DTEND;TZID=Europe/Copenhagen:20240626T163000
 DTSTAMP:20240626T053000Z
 UID:b20240626111LSV07301630100Ul3Senvagt
-DESCRIPTION:Hosinfo description: "07:30 - 16:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-26 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 16:30      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-26 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-26 16:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 16:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -410,11 +198,11 @@ DTSTART;TZID=Europe/Copenhagen:20240627T073000
 DTEND;TZID=Europe/Copenhagen:20240627T150000
 DTSTAMP:20240627T053000Z
 UID:b20240627111dv07301500100CTAMA
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-27 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-27 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-27 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -422,7 +210,7 @@ DTSTART;TZID=Europe/Copenhagen:20240628T000000
 DTEND;TZID=Europe/Copenhagen:20240628T235900
 DTSTAMP:20240627T220000Z
 UID:b20240628111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:a
@@ -430,11 +218,11 @@ DTSTART;TZID=Europe/Copenhagen:20240629T143000
 DTEND;TZID=Europe/Copenhagen:20240629T220000
 DTSTAMP:20240629T123000Z
 UID:b20240629111a14302200100a
-DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-29 14:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-29 14:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-29 22:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '14:30 - 22:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:a
@@ -442,11 +230,11 @@ DTSTART;TZID=Europe/Copenhagen:20240630T143000
 DTEND;TZID=Europe/Copenhagen:20240630T220000
 DTSTAMP:20240630T123000Z
 UID:b20240630111a14302200100a
-DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-06-30 14:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-06-30 14:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-06-30 22:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '14:30 - 22:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:>> Ekstra  /  Senvagt
@@ -454,11 +242,11 @@ DTSTART;TZID=Europe/Copenhagen:20240701T090000
 DTEND;TZID=Europe/Copenhagen:20240701T163000
 DTSTAMP:20240701T070000Z
 UID:b20240701111SV09001630100EkstraSenvagt
-DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-01 09:00:00+0200'\, t
+DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-01 09:00:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-01 16:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '09:00 - 16:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -466,11 +254,11 @@ DTSTART;TZID=Europe/Copenhagen:20240702T073000
 DTEND;TZID=Europe/Copenhagen:20240702T150000
 DTSTAMP:20240702T053000Z
 UID:b20240702111dv07301500100CTAMA
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-02 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-02 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-02 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -478,7 +266,7 @@ DTSTART;TZID=Europe/Copenhagen:20240703T000000
 DTEND;TZID=Europe/Copenhagen:20240703T235900
 DTSTAMP:20240702T220000Z
 UID:b20240703111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ul-3
@@ -486,11 +274,11 @@ DTSTART;TZID=Europe/Copenhagen:20240704T073000
 DTEND;TZID=Europe/Copenhagen:20240704T150000
 DTSTAMP:20240704T053000Z
 UID:b20240704111dv07301500100Ul3
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-04 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-04 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-04 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blå
@@ -498,11 +286,11 @@ DTSTART;TZID=Europe/Copenhagen:20240705T073000
 DTEND;TZID=Europe/Copenhagen:20240705T143000
 DTSTAMP:20240705T053000Z
 UID:b20240705111dvf07301430100Blå
-DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-05 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-05 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-05 14:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 14:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -510,7 +298,7 @@ DTSTART;TZID=Europe/Copenhagen:20240706T000000
 DTEND;TZID=Europe/Copenhagen:20240706T235900
 DTSTAMP:20240705T220000Z
 UID:b20240706111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -518,7 +306,7 @@ DTSTART;TZID=Europe/Copenhagen:20240707T000000
 DTEND;TZID=Europe/Copenhagen:20240707T235900
 DTSTAMP:20240706T220000Z
 UID:b20240707111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A forvagt
@@ -538,11 +326,11 @@ DTSTART;TZID=Europe/Copenhagen:20240710T073000
 DTEND;TZID=Europe/Copenhagen:20240710T150000
 DTSTAMP:20240710T053000Z
 UID:b20240710111dv07301500100Ul3
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-10 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-10 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-10 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ul-3
@@ -550,11 +338,11 @@ DTSTART;TZID=Europe/Copenhagen:20240711T073000
 DTEND;TZID=Europe/Copenhagen:20240711T150000
 DTSTAMP:20240711T053000Z
 UID:b20240711111dv07301500100Ul3
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-11 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-11 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-11 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -562,7 +350,7 @@ DTSTART;TZID=Europe/Copenhagen:20240712T000000
 DTEND;TZID=Europe/Copenhagen:20240712T235900
 DTSTAMP:20240711T220000Z
 UID:b20240712111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weekend dag
@@ -570,11 +358,11 @@ DTSTART;TZID=Europe/Copenhagen:20240713T073000
 DTEND;TZID=Europe/Copenhagen:20240713T150000
 DTSTAMP:20240713T053000Z
 UID:b20240713111dv07301500100Weekenddag
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-13 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-13 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-13 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Senvagt
@@ -582,11 +370,11 @@ DTSTART;TZID=Europe/Copenhagen:20240714T090000
 DTEND;TZID=Europe/Copenhagen:20240714T163000
 DTSTAMP:20240714T070000Z
 UID:b20240714111SV09001630100Senvagt
-DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-14 09:00:00+0200'\, t
+DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-14 09:00:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-14 16:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '09:00 - 16:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -594,7 +382,7 @@ DTSTART;TZID=Europe/Copenhagen:20240715T000000
 DTEND;TZID=Europe/Copenhagen:20240715T235900
 DTSTAMP:20240714T220000Z
 UID:b20240715111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -602,11 +390,11 @@ DTSTART;TZID=Europe/Copenhagen:20240716T073000
 DTEND;TZID=Europe/Copenhagen:20240716T150000
 DTSTAMP:20240716T053000Z
 UID:b20240716111dv07301500100CTAMA
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-16 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-16 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-16 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blå
@@ -614,11 +402,11 @@ DTSTART;TZID=Europe/Copenhagen:20240717T073000
 DTEND;TZID=Europe/Copenhagen:20240717T150000
 DTSTAMP:20240717T053000Z
 UID:b20240717111dv07301500100Blå
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-17 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-17 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-17 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 1
@@ -626,11 +414,11 @@ DTSTART;TZID=Europe/Copenhagen:20240718T073000
 DTEND;TZID=Europe/Copenhagen:20240718T150000
 DTSTAMP:20240718T053000Z
 UID:b20240718111dv07301500100CT1
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-18 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-18 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-18 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekstra
@@ -638,11 +426,11 @@ DTSTART;TZID=Europe/Copenhagen:20240719T073000
 DTEND;TZID=Europe/Copenhagen:20240719T143000
 DTSTAMP:20240719T053000Z
 UID:b20240719111dvf07301430100Ekstra
-DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-19 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-19 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-19 14:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 14:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -650,7 +438,7 @@ DTSTART;TZID=Europe/Copenhagen:20240720T000000
 DTEND;TZID=Europe/Copenhagen:20240720T235900
 DTSTAMP:20240719T220000Z
 UID:b20240720111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -658,7 +446,7 @@ DTSTART;TZID=Europe/Copenhagen:20240721T000000
 DTEND;TZID=Europe/Copenhagen:20240721T235900
 DTSTAMP:20240720T220000Z
 UID:b20240721111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -666,7 +454,7 @@ DTSTART;TZID=Europe/Copenhagen:20240722T000000
 DTEND;TZID=Europe/Copenhagen:20240722T235900
 DTSTAMP:20240721T220000Z
 UID:b20240722111Beskyttetfridag700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -674,11 +462,11 @@ DTSTART;TZID=Europe/Copenhagen:20240723T073000
 DTEND;TZID=Europe/Copenhagen:20240723T150000
 DTSTAMP:20240723T053000Z
 UID:b20240723111Ferie07301500730ferie
-DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 0
- 9-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-23 07:30:00+0200'
+DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 2
+ 6-06-2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-23 07:30:00+0200'
  \, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-23 15:00:00+
  0200'\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00 Ferie 
-    (Ændret sidst: 09-06-2024 20:57:51)'
+    (Ændret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -686,11 +474,11 @@ DTSTART;TZID=Europe/Copenhagen:20240724T073000
 DTEND;TZID=Europe/Copenhagen:20240724T150000
 DTSTAMP:20240724T053000Z
 UID:b20240724111Ferie07301500730ferie
-DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 0
- 9-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-24 07:30:00+0200'
+DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 2
+ 6-06-2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-24 07:30:00+0200'
  \, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-24 15:00:00+
  0200'\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00 Ferie 
-    (Ændret sidst: 09-06-2024 20:57:51)'
+    (Ændret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -698,11 +486,11 @@ DTSTART;TZID=Europe/Copenhagen:20240725T073000
 DTEND;TZID=Europe/Copenhagen:20240725T150000
 DTSTAMP:20240725T053000Z
 UID:b20240725111Ferie07301500730ferie
-DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 0
- 9-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-25 07:30:00+0200'
+DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 2
+ 6-06-2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-25 07:30:00+0200'
  \, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-25 15:00:00+
  0200'\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00 Ferie 
-    (Ændret sidst: 09-06-2024 20:57:51)'
+    (Ændret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -710,11 +498,11 @@ DTSTART;TZID=Europe/Copenhagen:20240726T073000
 DTEND;TZID=Europe/Copenhagen:20240726T143000
 DTSTAMP:20240726T053000Z
 UID:b20240726111Ferie07301430730ferie
-DESCRIPTION:Hosinfo description: "07:30 - 14:30 Ferie    (Ændret sidst: 0
- 9-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-26 07:30:00+0200'
+DESCRIPTION:Hosinfo description: "07:30 - 14:30 Ferie    (Ændret sidst: 2
+ 6-06-2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-26 07:30:00+0200'
  \, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-26 14:30:00+
  0200'\, tz='Europe/Copenhagen') - time_description = '07:30 - 14:30 Ferie 
-    (Ændret sidst: 09-06-2024 20:57:51)'
+    (Ændret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -722,11 +510,11 @@ DTSTART;TZID=Europe/Copenhagen:20240727T090000
 DTEND;TZID=Europe/Copenhagen:20240727T163000
 DTSTAMP:20240727T070000Z
 UID:b20240727111Ferie09001630730ferie
-DESCRIPTION:Hosinfo description: "09:00 - 16:30 Ferie    (Ændret sidst: 0
- 9-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-27 09:00:00+0200'
+DESCRIPTION:Hosinfo description: "09:00 - 16:30 Ferie    (Ændret sidst: 2
+ 6-06-2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-27 09:00:00+0200'
  \, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-27 16:30:00+
  0200'\, tz='Europe/Copenhagen') - time_description = '09:00 - 16:30 Ferie 
-    (Ændret sidst: 09-06-2024 20:57:51)'
+    (Ændret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -734,11 +522,11 @@ DTSTART;TZID=Europe/Copenhagen:20240728T073000
 DTEND;TZID=Europe/Copenhagen:20240728T150000
 DTSTAMP:20240728T053000Z
 UID:b20240728111Ferie07301500730ferie
-DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 0
- 9-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-28 07:30:00+0200'
+DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 2
+ 6-06-2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-28 07:30:00+0200'
  \, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-28 15:00:00+
  0200'\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00 Ferie 
-    (Ændret sidst: 09-06-2024 20:57:51)'
+    (Ændret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -746,7 +534,7 @@ DTSTART;TZID=Europe/Copenhagen:20240729T000000
 DTEND;TZID=Europe/Copenhagen:20240729T235900
 DTSTAMP:20240728T220000Z
 UID:b20240729111Beskyttetfridag700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -754,11 +542,11 @@ DTSTART;TZID=Europe/Copenhagen:20240730T073000
 DTEND;TZID=Europe/Copenhagen:20240730T163000
 DTSTAMP:20240730T053000Z
 UID:b20240730111Ferie07301630730ferie
-DESCRIPTION:Hosinfo description: "07:30 - 16:30 Ferie    (Ændret sidst: 0
- 9-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-30 07:30:00+0200'
+DESCRIPTION:Hosinfo description: "07:30 - 16:30 Ferie    (Ændret sidst: 2
+ 6-06-2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-30 07:30:00+0200'
  \, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-30 16:30:00+
  0200'\, tz='Europe/Copenhagen') - time_description = '07:30 - 16:30 Ferie 
-    (Ændret sidst: 09-06-2024 20:57:51)'
+    (Ændret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -766,11 +554,11 @@ DTSTART;TZID=Europe/Copenhagen:20240731T073000
 DTEND;TZID=Europe/Copenhagen:20240731T150000
 DTSTAMP:20240731T053000Z
 UID:b20240731111Ferie07301500730ferie
-DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 0
- 9-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-07-31 07:30:00+0200'
+DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 2
+ 6-06-2024 10:45:49)"\nhosinfo_start = Timestamp('2024-07-31 07:30:00+0200'
  \, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-07-31 15:00:00+
  0200'\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00 Ferie 
-    (Ændret sidst: 09-06-2024 20:57:51)'
+    (Ændret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -790,7 +578,7 @@ DTSTART;TZID=Europe/Copenhagen:20240802T000000
 DTEND;TZID=Europe/Copenhagen:20240802T235900
 DTSTAMP:20240801T220000Z
 UID:b20240802111730ferie
-DESCRIPTION: -  Ferie    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  Ferie    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -798,7 +586,7 @@ DTSTART;TZID=Europe/Copenhagen:20240803T000000
 DTEND;TZID=Europe/Copenhagen:20240803T235900
 DTSTAMP:20240802T220000Z
 UID:b20240803111Beskyttetfridag700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -806,7 +594,7 @@ DTSTART;TZID=Europe/Copenhagen:20240804T000000
 DTEND;TZID=Europe/Copenhagen:20240804T235900
 DTSTAMP:20240803T220000Z
 UID:b20240804111Beskyttetfridag700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -814,11 +602,11 @@ DTSTART;TZID=Europe/Copenhagen:20240805T143000
 DTEND;TZID=Europe/Copenhagen:20240805T220000
 DTSTAMP:20240805T123000Z
 UID:b20240805111Ferie14302200730ferie
-DESCRIPTION:Hosinfo description: "14:30 - 22:00 Ferie    (Ændret sidst: 0
- 9-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-05 14:30:00+0200'
+DESCRIPTION:Hosinfo description: "14:30 - 22:00 Ferie    (Ændret sidst: 2
+ 6-06-2024 10:45:49)"\nhosinfo_start = Timestamp('2024-08-05 14:30:00+0200'
  \, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-05 22:00:00+
  0200'\, tz='Europe/Copenhagen') - time_description = '14:30 - 22:00 Ferie 
-    (Ændret sidst: 09-06-2024 20:57:51)'
+    (Ændret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -826,11 +614,11 @@ DTSTART;TZID=Europe/Copenhagen:20240806T073000
 DTEND;TZID=Europe/Copenhagen:20240806T150000
 DTSTAMP:20240806T053000Z
 UID:b20240806111Ferie07301500730ferie
-DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 0
- 9-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-06 07:30:00+0200'
+DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 2
+ 6-06-2024 10:45:49)"\nhosinfo_start = Timestamp('2024-08-06 07:30:00+0200'
  \, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-06 15:00:00+
  0200'\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00 Ferie 
-    (Ændret sidst: 09-06-2024 20:57:51)'
+    (Ændret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -838,11 +626,11 @@ DTSTART;TZID=Europe/Copenhagen:20240807T073000
 DTEND;TZID=Europe/Copenhagen:20240807T150000
 DTSTAMP:20240807T053000Z
 UID:b20240807111Ferie07301500730ferie
-DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 0
- 9-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-07 07:30:00+0200'
+DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 2
+ 6-06-2024 10:45:49)"\nhosinfo_start = Timestamp('2024-08-07 07:30:00+0200'
  \, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-07 15:00:00+
  0200'\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00 Ferie 
-    (Ændret sidst: 09-06-2024 20:57:51)'
+    (Ændret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -850,11 +638,11 @@ DTSTART;TZID=Europe/Copenhagen:20240808T073000
 DTEND;TZID=Europe/Copenhagen:20240808T150000
 DTSTAMP:20240808T053000Z
 UID:b20240808111Ferie07301500730ferie
-DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 0
- 9-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-08 07:30:00+0200'
+DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie    (Ændret sidst: 2
+ 6-06-2024 10:45:49)"\nhosinfo_start = Timestamp('2024-08-08 07:30:00+0200'
  \, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-08 15:00:00+
  0200'\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00 Ferie 
-    (Ændret sidst: 09-06-2024 20:57:51)'
+    (Ændret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  ferie
@@ -862,11 +650,11 @@ DTSTART;TZID=Europe/Copenhagen:20240809T090000
 DTEND;TZID=Europe/Copenhagen:20240809T163000
 DTSTAMP:20240809T070000Z
 UID:b20240809111Ferie09001630730ferie
-DESCRIPTION:Hosinfo description: "09:00 - 16:30 Ferie    (Ændret sidst: 0
- 9-06-2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-09 09:00:00+0200'
+DESCRIPTION:Hosinfo description: "09:00 - 16:30 Ferie    (Ændret sidst: 2
+ 6-06-2024 10:45:49)"\nhosinfo_start = Timestamp('2024-08-09 09:00:00+0200'
  \, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-09 16:30:00+
  0200'\, tz='Europe/Copenhagen') - time_description = '09:00 - 16:30 Ferie 
-    (Ændret sidst: 09-06-2024 20:57:51)'
+    (Ændret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -874,7 +662,7 @@ DTSTART;TZID=Europe/Copenhagen:20240810T000000
 DTEND;TZID=Europe/Copenhagen:20240810T235900
 DTSTAMP:20240809T220000Z
 UID:b20240810111Beskyttetfridag700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -882,7 +670,7 @@ DTSTART;TZID=Europe/Copenhagen:20240811T000000
 DTEND;TZID=Europe/Copenhagen:20240811T235900
 DTSTAMP:20240810T220000Z
 UID:b20240811111Beskyttetfridag700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -890,11 +678,11 @@ DTSTART;TZID=Europe/Copenhagen:20240812T073000
 DTEND;TZID=Europe/Copenhagen:20240812T150000
 DTSTAMP:20240812T053000Z
 UID:b20240812111dv07301500100CTAMA
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-12 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-08-12 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-12 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ultralyd
@@ -902,11 +690,11 @@ DTSTART;TZID=Europe/Copenhagen:20240813T073000
 DTEND;TZID=Europe/Copenhagen:20240813T150000
 DTSTAMP:20240813T053000Z
 UID:b20240813111dv07301500100Ultralyd
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-13 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-08-13 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-13 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -914,11 +702,11 @@ DTSTART;TZID=Europe/Copenhagen:20240814T073000
 DTEND;TZID=Europe/Copenhagen:20240814T150000
 DTSTAMP:20240814T053000Z
 UID:b20240814111dv07301500100CTAMA
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-14 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-08-14 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-14 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 2
@@ -926,11 +714,11 @@ DTSTART;TZID=Europe/Copenhagen:20240815T073000
 DTEND;TZID=Europe/Copenhagen:20240815T150000
 DTSTAMP:20240815T053000Z
 UID:b20240815111dv07301500100CT2
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-15 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-08-15 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-15 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blå
@@ -938,11 +726,11 @@ DTSTART;TZID=Europe/Copenhagen:20240816T073000
 DTEND;TZID=Europe/Copenhagen:20240816T143000
 DTSTAMP:20240816T053000Z
 UID:b20240816111dvf07301430100Blå
-DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-16 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-08-16 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-16 14:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 14:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -950,7 +738,7 @@ DTSTART;TZID=Europe/Copenhagen:20240817T000000
 DTEND;TZID=Europe/Copenhagen:20240817T235900
 DTSTAMP:20240816T220000Z
 UID:b20240817111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -958,7 +746,7 @@ DTSTART;TZID=Europe/Copenhagen:20240818T000000
 DTEND;TZID=Europe/Copenhagen:20240818T235900
 DTSTAMP:20240817T220000Z
 UID:b20240818111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:49)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A forvagt /  afsp 15 - 16:30
@@ -978,11 +766,11 @@ DTSTART;TZID=Europe/Copenhagen:20240821T090000
 DTEND;TZID=Europe/Copenhagen:20240821T163000
 DTSTAMP:20240821T070000Z
 UID:b20240821111SV09001630100BlåSenvagt
-DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-21 09:00:00+0200'\, t
+DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 26-06
+ -2024 10:45:49)"\nhosinfo_start = Timestamp('2024-08-21 09:00:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-21 16:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '09:00 - 16:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:49)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blå
@@ -990,11 +778,11 @@ DTSTART;TZID=Europe/Copenhagen:20240822T073000
 DTEND;TZID=Europe/Copenhagen:20240822T150000
 DTSTAMP:20240822T053000Z
 UID:b20240822111dv07301500100Blå
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-22 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-08-22 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-22 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -1002,7 +790,7 @@ DTSTART;TZID=Europe/Copenhagen:20240823T000000
 DTEND;TZID=Europe/Copenhagen:20240823T235900
 DTSTAMP:20240822T220000Z
 UID:b20240823111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:a
@@ -1010,11 +798,11 @@ DTSTART;TZID=Europe/Copenhagen:20240824T143000
 DTEND;TZID=Europe/Copenhagen:20240824T220000
 DTSTAMP:20240824T123000Z
 UID:b20240824111a14302200100a
-DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-24 14:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-08-24 14:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-24 22:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '14:30 - 22:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:a
@@ -1022,11 +810,11 @@ DTSTART;TZID=Europe/Copenhagen:20240825T143000
 DTEND;TZID=Europe/Copenhagen:20240825T220000
 DTSTAMP:20240825T123000Z
 UID:b20240825111a14302200100a
-DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-25 14:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-08-25 14:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-25 22:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '14:30 - 22:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:>> Ultralyd  /  Senvagt
@@ -1034,11 +822,11 @@ DTSTART;TZID=Europe/Copenhagen:20240826T090000
 DTEND;TZID=Europe/Copenhagen:20240826T163000
 DTSTAMP:20240826T070000Z
 UID:b20240826111SV09001630100UltralydSenvagt
-DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-26 09:00:00+0200'\, t
+DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-08-26 09:00:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-26 16:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '09:00 - 16:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 2
@@ -1046,11 +834,11 @@ DTSTART;TZID=Europe/Copenhagen:20240827T073000
 DTEND;TZID=Europe/Copenhagen:20240827T150000
 DTSTAMP:20240827T053000Z
 UID:b20240827111dv07301500100CT2
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-27 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-08-27 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-27 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -1058,7 +846,7 @@ DTSTART;TZID=Europe/Copenhagen:20240828T000000
 DTEND;TZID=Europe/Copenhagen:20240828T235900
 DTSTAMP:20240827T220000Z
 UID:b20240828111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 3
@@ -1066,11 +854,11 @@ DTSTART;TZID=Europe/Copenhagen:20240829T073000
 DTEND;TZID=Europe/Copenhagen:20240829T150000
 DTSTAMP:20240829T053000Z
 UID:b20240829111dv07301500100CT3
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-29 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-08-29 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-29 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ul-3
@@ -1078,11 +866,11 @@ DTSTART;TZID=Europe/Copenhagen:20240830T073000
 DTEND;TZID=Europe/Copenhagen:20240830T143000
 DTSTAMP:20240830T053000Z
 UID:b20240830111dvf07301430100Ul3
-DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-08-30 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-08-30 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-08-30 14:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 14:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -1090,7 +878,7 @@ DTSTART;TZID=Europe/Copenhagen:20240831T000000
 DTEND;TZID=Europe/Copenhagen:20240831T235900
 DTSTAMP:20240830T220000Z
 UID:b20240831111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -1098,7 +886,7 @@ DTSTART;TZID=Europe/Copenhagen:20240901T000000
 DTEND;TZID=Europe/Copenhagen:20240901T235900
 DTSTAMP:20240831T220000Z
 UID:b20240901111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A forvagt
@@ -1118,11 +906,11 @@ DTSTART;TZID=Europe/Copenhagen:20240904T073000
 DTEND;TZID=Europe/Copenhagen:20240904T150000
 DTSTAMP:20240904T053000Z
 UID:b20240904111dv07301500100CT2
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-04 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-04 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-04 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekstra
@@ -1130,11 +918,11 @@ DTSTART;TZID=Europe/Copenhagen:20240905T073000
 DTEND;TZID=Europe/Copenhagen:20240905T150000
 DTSTAMP:20240905T053000Z
 UID:b20240905111dv07301500100Ekstra
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-05 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-05 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-05 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 2
@@ -1142,11 +930,11 @@ DTSTART;TZID=Europe/Copenhagen:20240906T073000
 DTEND;TZID=Europe/Copenhagen:20240906T143000
 DTSTAMP:20240906T053000Z
 UID:b20240906111dvf07301430100CT2
-DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-06 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-06 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-06 14:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 14:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -1154,7 +942,7 @@ DTSTART;TZID=Europe/Copenhagen:20240907T000000
 DTEND;TZID=Europe/Copenhagen:20240907T235900
 DTSTAMP:20240906T220000Z
 UID:b20240907111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -1162,7 +950,7 @@ DTSTART;TZID=Europe/Copenhagen:20240908T000000
 DTEND;TZID=Europe/Copenhagen:20240908T235900
 DTSTAMP:20240907T220000Z
 UID:b20240908111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 3
@@ -1170,11 +958,11 @@ DTSTART;TZID=Europe/Copenhagen:20240909T073000
 DTEND;TZID=Europe/Copenhagen:20240909T150000
 DTSTAMP:20240909T053000Z
 UID:b20240909111dv07301500100CT3
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-09 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-09 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-09 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 2
@@ -1182,11 +970,11 @@ DTSTART;TZID=Europe/Copenhagen:20240910T073000
 DTEND;TZID=Europe/Copenhagen:20240910T150000
 DTSTAMP:20240910T053000Z
 UID:b20240910111dv07301500100CT2
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-10 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-10 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-10 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ul-3
@@ -1194,11 +982,11 @@ DTSTART;TZID=Europe/Copenhagen:20240911T073000
 DTEND;TZID=Europe/Copenhagen:20240911T150000
 DTSTAMP:20240911T053000Z
 UID:b20240911111dv07301500100Ul3
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-11 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-11 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-11 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekstra
@@ -1206,11 +994,11 @@ DTSTART;TZID=Europe/Copenhagen:20240912T073000
 DTEND;TZID=Europe/Copenhagen:20240912T150000
 DTSTAMP:20240912T053000Z
 UID:b20240912111dv07301500100Ekstra
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-12 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-12 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-12 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT AMA
@@ -1218,11 +1006,11 @@ DTSTART;TZID=Europe/Copenhagen:20240913T073000
 DTEND;TZID=Europe/Copenhagen:20240913T143000
 DTSTAMP:20240913T053000Z
 UID:b20240913111dvf07301430100CTAMA
-DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-13 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-13 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-13 14:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 14:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -1230,7 +1018,7 @@ DTSTART;TZID=Europe/Copenhagen:20240914T000000
 DTEND;TZID=Europe/Copenhagen:20240914T235900
 DTSTAMP:20240913T220000Z
 UID:b20240914111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -1238,7 +1026,7 @@ DTSTART;TZID=Europe/Copenhagen:20240915T000000
 DTEND;TZID=Europe/Copenhagen:20240915T235900
 DTSTAMP:20240914T220000Z
 UID:b20240915111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -1246,7 +1034,7 @@ DTSTART;TZID=Europe/Copenhagen:20240916T000000
 DTEND;TZID=Europe/Copenhagen:20240916T235900
 DTSTAMP:20240915T220000Z
 UID:b20240916111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blå
@@ -1254,11 +1042,11 @@ DTSTART;TZID=Europe/Copenhagen:20240917T073000
 DTEND;TZID=Europe/Copenhagen:20240917T150000
 DTSTAMP:20240917T053000Z
 UID:b20240917111dv07301500100Blå
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-17 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-17 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-17 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CT 1
@@ -1266,11 +1054,11 @@ DTSTART;TZID=Europe/Copenhagen:20240918T073000
 DTEND;TZID=Europe/Copenhagen:20240918T150000
 DTSTAMP:20240918T053000Z
 UID:b20240918111dv07301500100CT1
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-18 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-18 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-18 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ekstra
@@ -1278,11 +1066,11 @@ DTSTART;TZID=Europe/Copenhagen:20240919T073000
 DTEND;TZID=Europe/Copenhagen:20240919T150000
 DTSTAMP:20240919T053000Z
 UID:b20240919111dv07301500100Ekstra
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-19 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-19 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-19 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ul-3
@@ -1290,11 +1078,11 @@ DTSTART;TZID=Europe/Copenhagen:20240920T073000
 DTEND;TZID=Europe/Copenhagen:20240920T143000
 DTSTAMP:20240920T053000Z
 UID:b20240920111dvf07301430100Ul3
-DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-20 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-20 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-20 14:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 14:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Senvagt
@@ -1302,11 +1090,11 @@ DTSTART;TZID=Europe/Copenhagen:20240921T090000
 DTEND;TZID=Europe/Copenhagen:20240921T163000
 DTSTAMP:20240921T070000Z
 UID:b20240921111SV09001630100Senvagt
-DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-21 09:00:00+0200'\, t
+DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-21 09:00:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-21 16:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '09:00 - 16:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weekend dag
@@ -1314,11 +1102,11 @@ DTSTART;TZID=Europe/Copenhagen:20240922T073000
 DTEND;TZID=Europe/Copenhagen:20240922T150000
 DTSTAMP:20240922T053000Z
 UID:b20240922111dv07301500100Weekenddag
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-22 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-22 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-22 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -1326,7 +1114,7 @@ DTSTART;TZID=Europe/Copenhagen:20240923T000000
 DTEND;TZID=Europe/Copenhagen:20240923T235900
 DTSTAMP:20240922T220000Z
 UID:b20240923111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:>> Ul-3  /  Senvagt
@@ -1334,11 +1122,11 @@ DTSTART;TZID=Europe/Copenhagen:20240924T073000
 DTEND;TZID=Europe/Copenhagen:20240924T163000
 DTSTAMP:20240924T053000Z
 UID:b20240924111LSV07301630100Ul3Senvagt
-DESCRIPTION:Hosinfo description: "07:30 - 16:30      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-24 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 16:30      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-24 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-24 16:30:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 16:30      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ul-3
@@ -1346,11 +1134,11 @@ DTSTART;TZID=Europe/Copenhagen:20240925T073000
 DTEND;TZID=Europe/Copenhagen:20240925T150000
 DTSTAMP:20240925T053000Z
 UID:b20240925111dv07301500100Ul3
-DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 09-06
- -2024 20:57:51)"\nhosinfo_start = Timestamp('2024-09-25 07:30:00+0200'\, t
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-25 07:30:00+0200'\, t
  z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-25 15:00:00+0200
  '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
- ret sidst: 09-06-2024 20:57:51)'
+ ret sidst: 26-06-2024 10:45:50)'
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A forvagt
@@ -1370,7 +1158,7 @@ DTSTART;TZID=Europe/Copenhagen:20240928T000000
 DTEND;TZID=Europe/Copenhagen:20240928T235900
 DTSTAMP:20240927T220000Z
 UID:b20240928111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: /  bf
@@ -1378,6 +1166,302 @@ DTSTART;TZID=Europe/Copenhagen:20240929T000000
 DTEND;TZID=Europe/Copenhagen:20240929T235900
 DTSTAMP:20240928T220000Z
 UID:b20240929111bf700bf
-DESCRIPTION: -  bf    (Ændret sidst: 09-06-2024 20:57:51)
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:a
+DTSTART;TZID=Europe/Copenhagen:20240930T143000
+DTEND;TZID=Europe/Copenhagen:20240930T220000
+DTSTAMP:20240930T123000Z
+UID:b20240930111a14302200100a
+DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-09-30 14:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-09-30 22:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '14:30 - 22:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ekstra
+DTSTART;TZID=Europe/Copenhagen:20241001T073000
+DTEND;TZID=Europe/Copenhagen:20241001T150000
+DTSTAMP:20241001T053000Z
+UID:b20241001111dv07301500100Ekstra
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-01 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-01 15:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultralyd
+DTSTART;TZID=Europe/Copenhagen:20241002T073000
+DTEND;TZID=Europe/Copenhagen:20241002T150000
+DTSTAMP:20241002T053000Z
+UID:b20241002111dv07301500100Ultralyd
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-02 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-02 15:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ekstra
+DTSTART;TZID=Europe/Copenhagen:20241003T073000
+DTEND;TZID=Europe/Copenhagen:20241003T150000
+DTSTAMP:20241003T053000Z
+UID:b20241003111dv07301500100Ekstra
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-03 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-03 15:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:>> Ekstra  /  Senvagt
+DTSTART;TZID=Europe/Copenhagen:20241004T090000
+DTEND;TZID=Europe/Copenhagen:20241004T163000
+DTSTAMP:20241004T070000Z
+UID:b20241004111SV09001630100EkstraSenvagt
+DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-04 09:00:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-04 16:30:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '09:00 - 16:30      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: /  bf
+DTSTART;TZID=Europe/Copenhagen:20241005T000000
+DTEND;TZID=Europe/Copenhagen:20241005T235900
+DTSTAMP:20241004T220000Z
+UID:b20241005111bf700bf
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: /  bf
+DTSTART;TZID=Europe/Copenhagen:20241006T000000
+DTEND;TZID=Europe/Copenhagen:20241006T235900
+DTSTAMP:20241005T220000Z
+UID:b20241006111bf700bf
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ekstra
+DTSTART;TZID=Europe/Copenhagen:20241007T073000
+DTEND;TZID=Europe/Copenhagen:20241007T150000
+DTSTAMP:20241007T053000Z
+UID:b20241007111dv07301500100Ekstra
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-07 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-07 15:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultralyd
+DTSTART;TZID=Europe/Copenhagen:20241008T073000
+DTEND;TZID=Europe/Copenhagen:20241008T150000
+DTSTAMP:20241008T053000Z
+UID:b20241008111dv07301500100Ultralyd
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-08 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-08 15:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ekstra
+DTSTART;TZID=Europe/Copenhagen:20241009T073000
+DTEND;TZID=Europe/Copenhagen:20241009T150000
+DTSTAMP:20241009T053000Z
+UID:b20241009111dv07301500100Ekstra
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-09 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-09 15:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ekstra
+DTSTART;TZID=Europe/Copenhagen:20241010T073000
+DTEND;TZID=Europe/Copenhagen:20241010T150000
+DTSTAMP:20241010T053000Z
+UID:b20241010111dv07301500100Ekstra
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-10 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-10 15:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ekstra
+DTSTART;TZID=Europe/Copenhagen:20241011T073000
+DTEND;TZID=Europe/Copenhagen:20241011T143000
+DTSTAMP:20241011T053000Z
+UID:b20241011111dvf07301430100Ekstra
+DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-11 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-11 14:30:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 14:30      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: /  bf
+DTSTART;TZID=Europe/Copenhagen:20241012T000000
+DTEND;TZID=Europe/Copenhagen:20241012T235900
+DTSTAMP:20241011T220000Z
+UID:b20241012111bf700bf
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: /  bf
+DTSTART;TZID=Europe/Copenhagen:20241013T000000
+DTEND;TZID=Europe/Copenhagen:20241013T235900
+DTSTAMP:20241012T220000Z
+UID:b20241013111bf700bf
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultralyd
+DTSTART;TZID=Europe/Copenhagen:20241014T073000
+DTEND;TZID=Europe/Copenhagen:20241014T150000
+DTSTAMP:20241014T053000Z
+UID:b20241014111dv07301500100Ultralyd
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-14 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-14 15:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CT 3
+DTSTART;TZID=Europe/Copenhagen:20241015T073000
+DTEND;TZID=Europe/Copenhagen:20241015T150000
+DTSTAMP:20241015T053000Z
+UID:b20241015111dv07301500100CT3
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-15 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-15 15:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:>> Ul-3  /  Senvagt
+DTSTART;TZID=Europe/Copenhagen:20241016T073000
+DTEND;TZID=Europe/Copenhagen:20241016T163000
+DTSTAMP:20241016T053000Z
+UID:b20241016111LSV07301630100Ul3Senvagt
+DESCRIPTION:Hosinfo description: "07:30 - 16:30      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-16 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-16 16:30:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 16:30      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ekstra
+DTSTART;TZID=Europe/Copenhagen:20241017T073000
+DTEND;TZID=Europe/Copenhagen:20241017T150000
+DTSTAMP:20241017T053000Z
+UID:b20241017111dv07301500100Ekstra
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-17 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-17 15:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: /  bf
+DTSTART;TZID=Europe/Copenhagen:20241018T000000
+DTEND;TZID=Europe/Copenhagen:20241018T235900
+DTSTAMP:20241017T220000Z
+UID:b20241018111bf700bf
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:a
+DTSTART;TZID=Europe/Copenhagen:20241019T143000
+DTEND;TZID=Europe/Copenhagen:20241019T220000
+DTSTAMP:20241019T123000Z
+UID:b20241019111a14302200100a
+DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-19 14:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-19 22:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '14:30 - 22:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:a
+DTSTART;TZID=Europe/Copenhagen:20241020T143000
+DTEND;TZID=Europe/Copenhagen:20241020T220000
+DTSTAMP:20241020T123000Z
+UID:b20241020111a14302200100a
+DESCRIPTION:Hosinfo description: "14:30 - 22:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-20 14:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-20 22:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '14:30 - 22:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:>> Ekstra  /  Senvagt
+DTSTART;TZID=Europe/Copenhagen:20241021T090000
+DTEND;TZID=Europe/Copenhagen:20241021T163000
+DTSTAMP:20241021T070000Z
+UID:b20241021111SV09001630100EkstraSenvagt
+DESCRIPTION:Hosinfo description: "09:00 - 16:30      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-21 09:00:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-21 16:30:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '09:00 - 16:30      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CT 3
+DTSTART;TZID=Europe/Copenhagen:20241022T073000
+DTEND;TZID=Europe/Copenhagen:20241022T150000
+DTSTAMP:20241022T053000Z
+UID:b20241022111dv07301500100CT3
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-22 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-22 15:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: /  bf
+DTSTART;TZID=Europe/Copenhagen:20241023T000000
+DTEND;TZID=Europe/Copenhagen:20241023T235900
+DTSTAMP:20241022T220000Z
+UID:b20241023111bf700bf
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ultralyd
+DTSTART;TZID=Europe/Copenhagen:20241024T073000
+DTEND;TZID=Europe/Copenhagen:20241024T150000
+DTSTAMP:20241024T053000Z
+UID:b20241024111dv07301500100Ultralyd
+DESCRIPTION:Hosinfo description: "07:30 - 15:00      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-24 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-24 15:00:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 15:00      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ekstra
+DTSTART;TZID=Europe/Copenhagen:20241025T073000
+DTEND;TZID=Europe/Copenhagen:20241025T143000
+DTSTAMP:20241025T053000Z
+UID:b20241025111dvf07301430100Ekstra
+DESCRIPTION:Hosinfo description: "07:30 - 14:30      (Ændret sidst: 26-06
+ -2024 10:45:50)"\nhosinfo_start = Timestamp('2024-10-25 07:30:00+0200'\, t
+ z='Europe/Copenhagen') - hosinfo_end = Timestamp('2024-10-25 14:30:00+0200
+ '\, tz='Europe/Copenhagen') - time_description = '07:30 - 14:30      (Ænd
+ ret sidst: 26-06-2024 10:45:50)'
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: /  bf
+DTSTART;TZID=Europe/Copenhagen:20241026T000000
+DTEND;TZID=Europe/Copenhagen:20241026T235900
+DTSTAMP:20241025T220000Z
+UID:b20241026111bf700bf
+DESCRIPTION: -  bf    (Ændret sidst: 26-06-2024 10:45:50)
 END:VEVENT
 END:VCALENDAR

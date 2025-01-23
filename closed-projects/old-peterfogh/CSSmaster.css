@@ -1,0 +1,258 @@
+/*------------------------------ Site layout START ---------------------------*/
+body {
+	background: #151515 url('image/bg.png') repeat-x fixed center top;
+	margin:0px;
+	border:0px;
+}
+#logo {
+	background: transparent url('image/logo.png') no-repeat center top;
+	width:820px;
+	height:175px;
+	margin:0px;
+	border:0px;
+}
+/*------------------------------ Menu START ---------------------------*/
+#webdesigner {
+	width:148px;
+	height:37px;
+	position:relative;
+	top:138px;
+	left:152px;
+	float:left;
+}
+#om_mig {
+	width:88px;
+	height:37px;
+	position:relative;
+	top:138px;
+	left:154px;
+	float:left;
+}
+#kompetencer {
+	width:149px;
+	height:37px;
+	position:relative;
+	top:138px;
+	left:156px;
+	float:left;
+}
+#referencer {
+	width:137px;
+	height:37px;
+	position:relative;
+	top:138px;
+	left:158px;
+	float:left;
+}
+#kontakt {
+	width:102px;
+	height:37px;
+	position:relative;
+	top:138px;
+	left:160px;
+	float:left;
+}
+/*------------------------------ Menu END ---------------------------*/
+#top {
+	background: transparent url('image/body/top.png') no-repeat center top;
+	width:808px;
+	height:20px;
+	margin:0px;
+	border:0px;
+}
+#left {
+	background: transparent url('image/body/left.png') repeat-y center top;
+	width:4px;
+	margin:0px;
+	border:0px;
+}
+#body_bg {
+	background: #ffffff url('image/body/bg.png') no-repeat center top;
+	width:800px;
+	margin:0px;
+	border:0px;
+	vertical-align:top;
+}
+#right {
+	background: transparent url('image/body/right.png') repeat-y center top;
+	width:4px;
+	margin:0px;
+	border:0px;
+}
+#bottom {
+	background: transparent url('image/body/bottom.png') no-repeat center top;
+	width:808px;
+	height:70px;
+	margin:0px;
+	border:0px;
+}
+/*------------------------------ Site layout END ---------------------------*/
+/*------------------------------ Slide START ---------------------------*/
+.img_overflow {
+	overflow:hidden;
+	height:200px;
+}
+#siteimage {
+	background: transparent url('image/display.png') no-repeat center top;
+	width:400px;
+	height:360px;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-right:30px;
+	margin-left:21px;
+	float:right;
+}
+#slideshow {
+	position:relative;
+	background: transparent url('image/display/1.png') no-repeat center top;
+	width:373px;
+	height:213px;
+	margin-top:13px;
+	margin-bottom:0px;
+	margin-right:0px;
+	margin-left:14px;
+}
+#slideshow IMG {
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:8;
+}
+#slideshow IMG.active {
+	z-index:10;
+}
+#slideshow IMG.last-active {
+	z-index:9;
+}
+/*------------------------------ Slide END ---------------------------*/
+/*------------------------------ Site fill START ---------------------------*/
+#display_image_text {
+	text-align:center;
+	margin-top:100px;
+}
+#protrætfoto {
+	background: transparent url('image/protrætfoto.png') no-repeat center top;
+	width:300px;
+	height:333px;
+	margin-right:20px;
+	float:right;
+}
+#kompe_prog {
+	margin-right:500px;
+	float:right;
+}
+#refern_image {
+	text-align:center;
+}
+#gmap {
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-right:30px;
+	margin-left:20px;
+	float:right;
+}
+/*------------------------------ Site fill END ---------------------------*/
+/*------------------------------ Fonts START ---------------------------*/
+h1 { 
+    font-family: Helvetica, Arial, Verdana;
+	font-size: 30px;
+	font-weight:normal;
+	color:#000000;
+	text-align:left;
+}
+h1.margin {
+	margin:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-right:30px;
+	margin-left:30px;
+}
+h2 {
+    font-family: Helvetica, Arial, Verdana;
+	font-size: 18px;
+	font-weight:normal;
+	color:#000000;
+	text-align:left;
+}
+h2.margin {
+	margin:0px;
+	margin-top:0px;
+	margin-bottom:20px;
+	margin-right:35px;
+	margin-left:30px;
+}
+h3 {
+    font-family: Helvetica, Arial, Verdana;
+	font-size: 16px;
+	font-weight:normal;
+	color:#000000;
+	text-align:left;
+}
+h3.margin {
+	margin:0px;
+	margin-top:0px;
+	margin-bottom:20px;
+	margin-right:35px;
+	margin-left:30px;
+}
+p {
+    font-family: Helvetica, Arial, Verdana;
+	font-size: 12px;
+	color:#000000;
+	text-align:left;
+}
+p.margin {
+	margin-top:0px;
+	margin-bottom:10px;
+	margin-right:35px;
+	margin-left:30px;
+}
+p.bottom {
+	color:#ffffff;
+	margin:0px;
+	padding-top:30px;
+	line-height:100%;
+	text-align:center;
+}
+ul {
+	font-family: Helvetica, Arial, Verdana;
+	font-size: 12px;
+	color:#000000;
+	text-align:left;
+	margin-left:20px;
+}
+/*------------------------------ Fonts END ---------------------------*/
+/*------------------------------ Links START ---------------------------*/
+a img {
+	border-width: 0px;
+	text-decoration: none;
+}
+a:link {
+	color:#336633;
+	text-decoration: underline;
+}
+a:visited {
+	color: #336633;
+	text-decoration: underline;
+}
+a:hover {
+	color: #336633;
+	text-decoration: underline;
+}
+a.bottom:link {
+	color:#ffffff;
+	text-decoration: underline;
+}
+a.bottom:visited {
+	color:#ffffff;
+	text-decoration: underline;
+}
+a.bottom:hover {
+	color:#ffffff;
+	text-decoration: underline;
+}
+/*------------------------------ Links END ---------------------------*/
+.ad {
+    position: absolute;
+    bottom: 0;
+}

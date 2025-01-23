@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- 
+Created by the 6 datalogi students:
+	Jens Emil Hansen
+	Peter Fogh
+	Rasmus Prip
+	Martin Baun
+	Mathias Spaniel
+	Mads Riis Jensen
+www.HotelKrogen.dk/booking
+All copyrights to DAT Groupe ds306e13 © 2013
+Language: English
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Home</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link rel="stylesheet" type="text/css" href="cssMaster.css">
+<style type="text/css" media="screen">
+	#top { width:100%; height:19px; background: url('images/mainView/top.png') no-repeat left top; }
+	
+	/* Menu items */
+	#menuBar { position:relative; height:33px; clear:both; background: url('images/mainView/menuBackground.png') no-repeat left top; }
+		#overview {position:absolute; z-index:10; left:95px; top:0; width:142px; height:33px; background: url('images/menu/overview.png') no-repeat left top;}
+		#overview:hover {z-index:20; background: url('images/menu/overviewOver.png') no-repeat left top;}
+		
+		#bookings {position:absolute; z-index:9; left:218px; top:0; width:169px; height:33px; background: url('images/menu/bookings.png') no-repeat left top;}
+		#bookings:hover {z-index:20; background: url('images/menu/bookingsOver.png') no-repeat left top;}
+		
+		#customers {position:absolute; z-index:8;  left:369px; top:0; width:123px; height:33px; background: url('images/menu/customers.png') no-repeat left top;}
+		#customers:hover {z-index:20; background: url('images/menu/customersOver.png') no-repeat left top;}
+		
+		#rooms {position:absolute; z-index:7; left:474px; top:0; width:139px; height:33px; background: url('images/menu/rooms.png') no-repeat left top;}
+		#rooms:hover {z-index:20; background: url('images/menu/roomsOver.png') no-repeat left top;}
+		
+		#facilities {position:absolute; z-index:6; left:595px; top:0; width:145px; height:33px; background: url('images/menu/facilities.png') no-repeat left top;}
+		#facilities:hover {z-index:20; background: url('images/menu/facilitiesOver.png') no-repeat left top;}
+		
+		#users {position:absolute; z-index:5; left:722px; top:0; width:142px; height:33px; background: url('images/menu/users.png') no-repeat left top;}
+		#users:hover {z-index:20; background: url('images/menu/usersOver.png') no-repeat left top;}
+	
+	#pageTop { width:100%; height:9px; background: url('images/mainView/pageTop.png') no-repeat left top; }
+	#middelView { overflow: hidden;}
+	#binderRepeat, #page, #rightSideRepeat {
+	    float: left;
+	}
+	#binderRepeat {  
+    padding-bottom:20005px; margin-bottom:-20000px; width:95px; background: url('images/mainView/binderRepeat.png');}
+	#page { width:1043px; min-height:480px; background:#fff;}
+	#page img { display:block; }
+	
+	/* sideMenu items */
+	#rightSideRepeat { position:relative; padding-bottom:20005px; margin-bottom:-20000px; width:62px; background: url('images/mainView/rightSideRepeat.png') repeat-y left top; }
+	
+	
+		#logout {position:absolute; z-index:10; left:9px; top:150px; width:53px; height:96px; background: url('images/sideMenu/logout.png') no-repeat left top;}
+		#logout:hover {z-index:20; background:url('images/sideMenu/logoutOver.png') no-repeat left top;}
+		
+		#settings {position:absolute; z-index:9; left:9px; top:230px; width:53px; height:94px; background: url('images/sideMenu/settings.png') no-repeat left top;}
+		#settings:hover {z-index:20; background: url('images/sideMenu/settingsOver.png') no-repeat left top;}
+	
+	#bottom { clear:both; width:100%; height:46px; background: url('images/mainView/bottom.png') no-repeat left top; }
+</style>
+</head>
+
+<body>
+	<!-- SITE CONTAINER -->
+	<div id="siteContext">
+		<!-- HEADER -->
+		<div id="top"></div>
+		<div id="menuBar">
+			<div id="overview"></div>
+			<div id="bookings"></div>
+			<div id="customers"></div>
+			<div id="rooms"></div>
+			<div id="facilities"></div>
+			<div id="users"></div>
+		</div>
+		<div id="pageTop"></div>
+		<!-- MIDDEL VIEW -->
+		<div id="middelView">
+			<div id="binderRepeat"></div>
+			<!-- MAIN VIEW -->
+			<div id="page">
+				Hey hey hey hey <br/>
+				Hey hey hey hey <br/>
+				Hey hey hey hey <br/>
+				Hey hey hey hey <br/>
+				Hey hey hey hey <br/>
+				Hey hey hey hey <br/>
+				Hey hey hey hey <br/>
+				Hey hey hey hey <br/>
+				Hey hey hey hey <br/>
+				Hey hey hey hey <br/>
+			</div>
+			<!-- MAIN VIEW END -->
+			<div id="rightSideRepeat">
+				<div id="fixedWrapper">
+					<a href="index.html">
+						<div id="logout"></div>
+					</a>
+					<div id="settings"></div>
+				</div>
+			</div>
+		</div>
+		<!-- MIDDEL VIEW END -->
+		<div id="bottom"></div>
+	</div> <!-- SITE CONTAINER END-->
+</body>
+</html>

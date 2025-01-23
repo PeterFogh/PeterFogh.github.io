@@ -1,0 +1,246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- 
+Created by the 6 datalogi students:
+	Jens Emil Hansen
+	Peter Fogh
+	Rasmus Prip
+	Martin Baun
+	Mathias Spaniel
+	Mads Riis Jensen
+www.HotelKrogen.dk/booking
+All copyrights to DAT Groupe ds306e13 © 2013
+Language: English
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Log In</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<!-- Preloads -->
+	<link rel="prefetch" href="http://www.peterfogh.dk/HotelKrogen/images/login/callcenterButtonOver.png" />
+	<link rel="prefetch" href="http://www.peterfogh.dk/HotelKrogen/images/login/receptionistButtonOver.png" />
+	<link rel="prefetch" href="http://www.peterfogh.dk/HotelKrogen/images/login/managerButtonOver.png" />
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" language="JavaScript" src="js/mouseOver.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$(function(){
+				//Hide all input f
+			    $("#underCallcenterform").hide();
+				$("#receptionistButtonform").hide();
+				$("#managerButtonform").hide();
+			    
+				$("#callcenterButton").on("click", function(){
+					// delete typed text in other password input
+					$('#receptionist').val("");
+					$('#manager').val("");
+					$('*.clear').show();
+			        $('*.password').hide();
+			        $("#receptionistButtonform, #managerButtonform").hide();
+					$("#underCallcenterform").show();
+			    });
+				$("#receptionistButton").on("click", function(){
+					$('#callcenter').val("");
+					$('#manager').val("");
+					$('*.clear').show();
+			        $('*.password').hide();
+			        $("#underCallcenterform, #managerButtonform").hide();
+				    $("#receptionistButtonform").show();
+			    });
+				$("#managerButton").on("click", function(){
+					$('#callcenter').val("");
+					$('#receptionist').val("");
+					$('*.clear').show();
+			        $('*.password').hide();
+			        $("#underCallcenterform, #receptionistButtonform").hide();
+				    $("#managerButtonform").show();
+			    });
+				
+				$('*.clear').show();
+				$('*.password').hide();
+
+				$('.clear').focus(function() {
+				    $('.clear').hide();
+				    $('.password').show();
+				    $('.password').focus();
+				});
+				
+				$('#callcenter').blur(function() {
+				    if($('#callcenter').val() == "") {
+				        $('.clear').show();
+				        $('.password').hide();
+				    }
+				});
+				
+				$('#receptionist').blur(function() {
+				    if($('#receptionist').val() == "") {
+				        $('.clear').show();
+				        $('.password').hide();
+				    }
+				});
+				
+				$('#manager').blur(function() {
+				    if($('#manager').val() == "") {
+				        $('.clear').show();
+				        $('.password').hide();
+				    }
+				});
+			});
+			
+		});
+		
+		
+	</script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
+	</script>
+	<style type="text/css" media="screen">
+		/* RESET */	html,body,div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input,abbr,article,aside,command,details,figcaption,figure,footer,header,hgroup,mark,meter,nav,output,progress,section,summary,time { margin: 0; padding: 0; }
+		h1,h2,h3,h4,h5,h6,pre,code,address,caption,cite,code,em,strong,th,figcaption { font-size: 1em; font-weight: normal; font-style: normal; }
+		fieldset,iframe { border: none; }
+		caption,th { text-align: left; }
+		table { border-collapse: collapse; border-spacing: 0; }
+		article,aside,footer,header,hgroup,nav,section,figure,figcaption { display: block; }
+    	
+		/* LAYOUT */
+		html { 
+			font-family: Arial, "MS Trebuchet", sans-serif; 
+			color:#000;
+		}
+		body {
+			background:#fff url('images/background.jpg') repeat-x fixed left top;
+			margin: 0; 
+		}
+		#siteContext {
+			margin: 0 auto;
+			width: 1200px; /* Replace the xxxx with the the width of your site (eg 800px)*/
+			text-align:left;
+		}
+	
+		#top { width:1200px; height:57px; background: url('images/login/top.png') no-repeat left top; }
+		#binders { width:111px; height:551px; background: url('images/login/binders.png') no-repeat left top; }
+		#title { width:1011px; height:71px; background: url('images/login/title.png') no-repeat left top; }
+		#lock { width:78px; height:551px; background: url('images/login/lock.png') no-repeat left top; }
+		#betweenTitleIcons { width:1011px; height:18px; background: url('images/login/betweenTitleIcons.png') no-repeat left top; }
+		#nextToCallCenterIcon { width:71px; height:357px; background: url('images/login/nextToCallCenterIcon.png') no-repeat left top; }
+		/*Icon background NONE Mouse OVER*/
+		#callcenterButton { width:227px; height:302px; background: url('images/login/callcenterButton.png') no-repeat left top; }
+		#receptionistButton { width:290px; height:302px; background: url('images/login/receptionistButton.png') no-repeat left top; }
+		#managerButton { width:210px; height:302px; background: url('images/login/managerButton.png') no-repeat left top; }
+		/*Preeloads */
+		#callcenterButton:before {content: url('images/login/callcenterButtonOver.png'); width:0; height:0; display:none;}
+		#callcenterButton:before {content: url('images/login/receptionistButtonOver.png'); width:0; height:0; display:none;}
+		#callcenterButton:before {content: url('images/login/managerButtonOver.png'); width:0; height:0; display:none;}
+		/* 
+			put in css :
+				#precallcenterButton { background: url('images/login/receptionistButtonOver.png') no-repeat -9999px -9999px; }
+			Put some where in html:
+				<div id="precallcenterButton"></div>
+		*/
+		/*Icon hover Mouse Over*/
+		#callcenterButton:hover { background: url('images/login/callcenterButtonOver.png') no-repeat left top; }
+		#receptionistButton:hover { background: url('images/login/receptionistButtonOver.png') no-repeat left top; }
+		#managerButton:hover { background: url('images/login/managerButtonOver.png') no-repeat left top; }
+		
+		#betweenReceptionistManager { width:65px; height:357px; background: url('images/login/betweenReceptionistManager.png') no-repeat left top; }
+		#betweenCallCenterReceptionist { width:55px; height:357px; background: url('images/login/betweenCallCenterReceptionist.png') no-repeat left top; }
+		#nextToManager { width:93px; height:357px; background: url('images/login/nextToManager.png') no-repeat left top; }
+		#underCallcenter { text-align:center; width:227px; height:55px; background: url('images/login/underCallcenter.png') no-repeat left top; }
+		#underReceptionist { text-align:center; width:290px; height:55px; background: url('images/login/underReceptionist.png') no-repeat left top; }
+		#underManager { text-align:center; width:210px; height:55px; background: url('images/login/underManager.png') no-repeat left top; }
+		#lockArea { width:1011px; height:105px; background: url('images/login/lockArea.png') no-repeat left top; }
+		#bottom { width:1200px; height:57px; background: url('images/login/bottom.png') no-repeat left top; }
+		
+		/* Login Menu */
+		form {
+			display: block;
+			margin : 0 auto;
+			width:209px; 
+			height:35px;
+		}
+		.loginInput {
+		    background: url('images/login/input.png') no-repeat left top;
+			font-family: Arial, "MS Trebuchet", sans-serif; 
+			color:#fff;
+			float:left;
+		    border: none;
+			width:155px; 
+			height:35px;
+			padding-left:10px;
+			font-size:20px;
+		}
+		.loginInput:focus {
+			outline: 0;
+		}
+		.key {
+			background: url('images/login/key.png') no-repeat left top;
+			float:left;
+			border: none;
+			width:44px;
+			height:35px;
+			margin:0;
+			padding:0;
+		}
+		.key:hover {
+			background: url('images/login/keyOver.png') no-repeat left top;
+		}
+		
+	</style>	
+		
+</head>
+<body>
+	<div id="siteContext">
+		<table id="Table_01" width="1200" height="665" border="0" cellpadding="0" cellspacing="0">
+			<tr>
+				<td colspan="9" id="top"></td>
+			</tr>
+			<tr>
+				<td rowspan="5" id="binders"></td>
+				<td colspan="7" id="title"></td>
+				<td rowspan="5" id="lock"></td>
+			</tr>
+			<tr>
+				<td colspan="7" id="betweenTitleIcons"></td>
+			</tr>
+			<tr>
+				<td rowspan="2" id="nextToCallCenterIcon"></td>
+				<td id="callcenterButton"></td>
+				<td rowspan="2" id="betweenCallCenterReceptionist"></td>
+				<td id="receptionistButton"></td>
+				<td rowspan="2" id="betweenReceptionistManager"></td>
+				<td id="managerButton"></td>
+				<td rowspan="2" id="nextToManager"></td>
+			</tr>
+			<tr>
+				<td id="underCallcenter">
+					<form id="underCallcenterform" action="home.html" method="get">
+						<input class="loginInput clear" type="text" value="Password" autocomplete="off" />
+						<input class="loginInput password" id="callcenter" type="password" name="pass" value="" autocomplete="off" alt="Udfyld din kode" />
+						<input class="key" type="submit" value="">
+					</form>
+				</td>
+				<td id="underReceptionist">
+					<form id="receptionistButtonform" action="home.html" method="get">
+						<input class="loginInput clear" type="text" value="Password" autocomplete="off" />
+						<input class="loginInput password" id="receptionist" type="password" name="pass" value="" autocomplete="off" alt="Udfyld din kode" />
+						<input class="key" type="submit" value="">
+					</form>
+				</td>
+				<td id="underManager">
+					<form id="managerButtonform" action="home.html" method="get">
+						<input class="loginInput clear"  type="text" value="Password" autocomplete="off" />
+						<input class="loginInput password" id="manager" type="password" name="pass" value="" autocomplete="off" alt="Udfyld din kode" />
+						<input class="key" type="submit" value="">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="7" id="lockArea"></td>
+			</tr>
+			<tr>
+				<td colspan="9" id="bottom"></td>
+			</tr>
+		</table>
+</div>
+<!-- End Save for Web Slices -->
+</body>
+</html>

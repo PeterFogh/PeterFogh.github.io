@@ -1,0 +1,13 @@
+@page {
+    size: A4 landscape;
+    margin: 0;
+
+    @bottom-left {
+        content: "My book";
+        content: "Page " counter(page) " of " counter(pages);
+    }
+}
+
+h1, h2, h3, h4, h5 {
+  page-break-after: avoid;
+}

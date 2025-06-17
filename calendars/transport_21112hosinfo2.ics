@@ -11,7 +11,7 @@ DTEND;TZID=Europe/Copenhagen:20250602T090000
 DTSTAMP:20250602T061500Z
 UID:b20250602111SV09001630100BlaaSenvagttilarbejde
 DESCRIPTION:Hosinfo Summary: ">> Blaa  /  Senvagt"\nHosinfo description: "
- 09:00 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ 09:00 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -20,7 +20,7 @@ DTEND;TZID=Europe/Copenhagen:20250602T171500
 DTSTAMP:20250602T143000Z
 UID:b20250602111SV09001630100BlaaSenvagttilhjem
 DESCRIPTION:Hosinfo Summary: ">> Blaa  /  Senvagt"\nHosinfo description: "
- 09:00 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ 09:00 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -29,7 +29,7 @@ DTEND;TZID=Europe/Copenhagen:20250607T143000
 DTSTAMP:20250607T110000Z
 UID:b20250607111a14302200100atilarbejde
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -38,7 +38,7 @@ DTEND;TZID=Europe/Copenhagen:20250607T233000
 DTSTAMP:20250607T200000Z
 UID:b20250607111a14302200100atilhjem
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -47,7 +47,7 @@ DTEND;TZID=Europe/Copenhagen:20250608T073000
 DTSTAMP:20250608T044500Z
 UID:b20250608111dv07301500100Weekenddagtilarbejde
 DESCRIPTION:Hosinfo Summary: "Weekend dag"\nHosinfo description: "07:30 - 
- 15:00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 15:00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -56,7 +56,7 @@ DTEND;TZID=Europe/Copenhagen:20250608T154500
 DTSTAMP:20250608T130000Z
 UID:b20250608111dv07301500100Weekenddagtilhjem
 DESCRIPTION:Hosinfo Summary: "Weekend dag"\nHosinfo description: "07:30 - 
- 15:00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 15:00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -65,7 +65,7 @@ DTEND;TZID=Europe/Copenhagen:20250611T073000
 DTSTAMP:20250611T044500Z
 UID:b20250611111dv07301500100CT1tilarbejde
 DESCRIPTION:Hosinfo Summary: "CT 1"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -74,7 +74,7 @@ DTEND;TZID=Europe/Copenhagen:20250611T154500
 DTSTAMP:20250611T130000Z
 UID:b20250611111dv07301500100CT1tilhjem
 DESCRIPTION:Hosinfo Summary: "CT 1"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -83,7 +83,7 @@ DTEND;TZID=Europe/Copenhagen:20250612T073000
 DTSTAMP:20250612T044500Z
 UID:b20250612111dv07301500100AMAblaatilarbejde
 DESCRIPTION:Hosinfo Summary: "AMA blaa"\nHosinfo description: "07:30 - 15:
- 00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -92,7 +92,7 @@ DTEND;TZID=Europe/Copenhagen:20250612T154500
 DTSTAMP:20250612T130000Z
 UID:b20250612111dv07301500100AMAblaatilhjem
 DESCRIPTION:Hosinfo Summary: "AMA blaa"\nHosinfo description: "07:30 - 15:
- 00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -101,7 +101,7 @@ DTEND;TZID=Europe/Copenhagen:20250613T073000
 DTSTAMP:20250613T044500Z
 UID:b20250613111dvf07301430100CTAMAtilarbejde
 DESCRIPTION:Hosinfo Summary: "CT AMA"\nHosinfo description: "07:30 - 14:30
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -110,7 +110,7 @@ DTEND;TZID=Europe/Copenhagen:20250613T151500
 DTSTAMP:20250613T123000Z
 UID:b20250613111dvf07301430100CTAMAtilhjem
 DESCRIPTION:Hosinfo Summary: "CT AMA"\nHosinfo description: "07:30 - 14:30
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -119,7 +119,7 @@ DTEND;TZID=Europe/Copenhagen:20250617T073000
 DTSTAMP:20250617T044500Z
 UID:b20250617111dv07301500100Ul3tilarbejde
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -128,7 +128,7 @@ DTEND;TZID=Europe/Copenhagen:20250617T154500
 DTSTAMP:20250617T130000Z
 UID:b20250617111dv07301500100Ul3tilhjem
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -137,7 +137,7 @@ DTEND;TZID=Europe/Copenhagen:20250618T073000
 DTSTAMP:20250618T044500Z
 UID:b20250618111dv07301500100Ul3tilarbejde
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -146,7 +146,7 @@ DTEND;TZID=Europe/Copenhagen:20250618T154500
 DTSTAMP:20250618T130000Z
 UID:b20250618111dv07301500100Ul3tilhjem
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -155,7 +155,7 @@ DTEND;TZID=Europe/Copenhagen:20250619T073000
 DTSTAMP:20250619T044500Z
 UID:b20250619111dv07301500100Ul3tilarbejde
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -164,7 +164,7 @@ DTEND;TZID=Europe/Copenhagen:20250619T154500
 DTSTAMP:20250619T130000Z
 UID:b20250619111dv07301500100Ul3tilhjem
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -173,7 +173,7 @@ DTEND;TZID=Europe/Copenhagen:20250620T073000
 DTSTAMP:20250620T044500Z
 UID:b20250620111dvf07301430100Ultralydtilarbejde
 DESCRIPTION:Hosinfo Summary: "Ultralyd"\nHosinfo description: "07:30 - 14:
- 30      (Aendret sidst: 17-06-2025 16:13:04)"
+ 30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -182,7 +182,7 @@ DTEND;TZID=Europe/Copenhagen:20250620T151500
 DTSTAMP:20250620T123000Z
 UID:b20250620111dvf07301430100Ultralydtilhjem
 DESCRIPTION:Hosinfo Summary: "Ultralyd"\nHosinfo description: "07:30 - 14:
- 30      (Aendret sidst: 17-06-2025 16:13:04)"
+ 30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -191,7 +191,7 @@ DTEND;TZID=Europe/Copenhagen:20250624T073000
 DTSTAMP:20250624T044500Z
 UID:b20250624111DV07301500100Ul3tilarbejde
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -200,7 +200,7 @@ DTEND;TZID=Europe/Copenhagen:20250624T154500
 DTSTAMP:20250624T130000Z
 UID:b20250624111DV07301500100Ul3tilhjem
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -209,7 +209,7 @@ DTEND;TZID=Europe/Copenhagen:20250626T073000
 DTSTAMP:20250626T044500Z
 UID:b20250626111dv07301500100CTAMAtilarbejde
 DESCRIPTION:Hosinfo Summary: "CT AMA"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -218,7 +218,7 @@ DTEND;TZID=Europe/Copenhagen:20250626T154500
 DTSTAMP:20250626T130000Z
 UID:b20250626111dv07301500100CTAMAtilhjem
 DESCRIPTION:Hosinfo Summary: "CT AMA"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -227,7 +227,7 @@ DTEND;TZID=Europe/Copenhagen:20250627T073000
 DTSTAMP:20250627T044500Z
 UID:b20250627111dvf07301430100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 14:30
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -236,7 +236,7 @@ DTEND;TZID=Europe/Copenhagen:20250627T151500
 DTSTAMP:20250627T123000Z
 UID:b20250627111dvf07301430100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 14:30
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -245,7 +245,7 @@ DTEND;TZID=Europe/Copenhagen:20250628T090000
 DTSTAMP:20250628T061500Z
 UID:b20250628111SV09001630100Senvagttilarbejde
 DESCRIPTION:Hosinfo Summary: "Senvagt"\nHosinfo description: "09:00 - 16:3
- 0      (Aendret sidst: 17-06-2025 16:13:04)"
+ 0      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -254,7 +254,7 @@ DTEND;TZID=Europe/Copenhagen:20250628T171500
 DTSTAMP:20250628T143000Z
 UID:b20250628111SV09001630100Senvagttilhjem
 DESCRIPTION:Hosinfo Summary: "Senvagt"\nHosinfo description: "09:00 - 16:3
- 0      (Aendret sidst: 17-06-2025 16:13:04)"
+ 0      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -263,7 +263,7 @@ DTEND;TZID=Europe/Copenhagen:20250629T073000
 DTSTAMP:20250629T044500Z
 UID:b20250629111dv07301500100Weekenddagtilarbejde
 DESCRIPTION:Hosinfo Summary: "Weekend dag"\nHosinfo description: "07:30 - 
- 15:00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 15:00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -272,7 +272,7 @@ DTEND;TZID=Europe/Copenhagen:20250629T154500
 DTSTAMP:20250629T130000Z
 UID:b20250629111dv07301500100Weekenddagtilhjem
 DESCRIPTION:Hosinfo Summary: "Weekend dag"\nHosinfo description: "07:30 - 
- 15:00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 15:00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -281,7 +281,7 @@ DTEND;TZID=Europe/Copenhagen:20250701T073000
 DTSTAMP:20250701T044500Z
 UID:b20250701111LSV07301630100Ul3Senvagttilarbejde
 DESCRIPTION:Hosinfo Summary: ">> Ul-3  /  Senvagt"\nHosinfo description: "
- 07:30 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ 07:30 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -290,7 +290,7 @@ DTEND;TZID=Europe/Copenhagen:20250701T171500
 DTSTAMP:20250701T143000Z
 UID:b20250701111LSV07301630100Ul3Senvagttilhjem
 DESCRIPTION:Hosinfo Summary: ">> Ul-3  /  Senvagt"\nHosinfo description: "
- 07:30 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ 07:30 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -299,7 +299,7 @@ DTEND;TZID=Europe/Copenhagen:20250702T073000
 DTSTAMP:20250702T044500Z
 UID:b20250702111dv07301500100Ultralydtilarbejde
 DESCRIPTION:Hosinfo Summary: "Ultralyd"\nHosinfo description: "07:30 - 15:
- 00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -308,7 +308,7 @@ DTEND;TZID=Europe/Copenhagen:20250702T154500
 DTSTAMP:20250702T130000Z
 UID:b20250702111dv07301500100Ultralydtilhjem
 DESCRIPTION:Hosinfo Summary: "Ultralyd"\nHosinfo description: "07:30 - 15:
- 00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -335,7 +335,7 @@ DTEND;TZID=Europe/Copenhagen:20250707T143000
 DTSTAMP:20250707T110000Z
 UID:b20250707111a14302200100atilarbejde
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -344,7 +344,7 @@ DTEND;TZID=Europe/Copenhagen:20250707T233000
 DTSTAMP:20250707T200000Z
 UID:b20250707111a14302200100atilhjem
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -353,7 +353,7 @@ DTEND;TZID=Europe/Copenhagen:20250708T073000
 DTSTAMP:20250708T044500Z
 UID:b20250708111dv07301500100Ul3tilarbejde
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -362,7 +362,7 @@ DTEND;TZID=Europe/Copenhagen:20250708T154500
 DTSTAMP:20250708T130000Z
 UID:b20250708111dv07301500100Ul3tilhjem
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -371,7 +371,7 @@ DTEND;TZID=Europe/Copenhagen:20250709T073000
 DTSTAMP:20250709T044500Z
 UID:b20250709111dv07301500100Ul3tilarbejde
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -380,7 +380,7 @@ DTEND;TZID=Europe/Copenhagen:20250709T154500
 DTSTAMP:20250709T130000Z
 UID:b20250709111dv07301500100Ul3tilhjem
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -389,7 +389,7 @@ DTEND;TZID=Europe/Copenhagen:20250711T090000
 DTSTAMP:20250711T061500Z
 UID:b20250711111SV09001630100AMAblaaSenvagttilarbejde
 DESCRIPTION:Hosinfo Summary: ">> AMA blaa  /  Senvagt"\nHosinfo descriptio
- n: "09:00 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ n: "09:00 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -398,7 +398,7 @@ DTEND;TZID=Europe/Copenhagen:20250711T171500
 DTSTAMP:20250711T143000Z
 UID:b20250711111SV09001630100AMAblaaSenvagttilhjem
 DESCRIPTION:Hosinfo Summary: ">> AMA blaa  /  Senvagt"\nHosinfo descriptio
- n: "09:00 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ n: "09:00 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -407,7 +407,7 @@ DTEND;TZID=Europe/Copenhagen:20250712T073000
 DTSTAMP:20250712T044500Z
 UID:b20250712111dv07301500100Weekenddagtilarbejde
 DESCRIPTION:Hosinfo Summary: "Weekend dag"\nHosinfo description: "07:30 - 
- 15:00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 15:00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -416,7 +416,7 @@ DTEND;TZID=Europe/Copenhagen:20250712T154500
 DTSTAMP:20250712T130000Z
 UID:b20250712111dv07301500100Weekenddagtilhjem
 DESCRIPTION:Hosinfo Summary: "Weekend dag"\nHosinfo description: "07:30 - 
- 15:00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 15:00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -425,7 +425,7 @@ DTEND;TZID=Europe/Copenhagen:20250713T090000
 DTSTAMP:20250713T061500Z
 UID:b20250713111SV09001630100Senvagttilarbejde
 DESCRIPTION:Hosinfo Summary: "Senvagt"\nHosinfo description: "09:00 - 16:3
- 0      (Aendret sidst: 17-06-2025 16:13:04)"
+ 0      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -434,7 +434,7 @@ DTEND;TZID=Europe/Copenhagen:20250713T171500
 DTSTAMP:20250713T143000Z
 UID:b20250713111SV09001630100Senvagttilhjem
 DESCRIPTION:Hosinfo Summary: "Senvagt"\nHosinfo description: "09:00 - 16:3
- 0      (Aendret sidst: 17-06-2025 16:13:04)"
+ 0      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -443,7 +443,7 @@ DTEND;TZID=Europe/Copenhagen:20250715T073000
 DTSTAMP:20250715T044500Z
 UID:b20250715111dv07301500100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -452,7 +452,7 @@ DTEND;TZID=Europe/Copenhagen:20250715T154500
 DTSTAMP:20250715T130000Z
 UID:b20250715111dv07301500100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -461,7 +461,7 @@ DTEND;TZID=Europe/Copenhagen:20250716T073000
 DTSTAMP:20250716T044500Z
 UID:b20250716111dv07301500100Ultralydtilarbejde
 DESCRIPTION:Hosinfo Summary: "Ultralyd"\nHosinfo description: "07:30 - 15:
- 00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -470,7 +470,7 @@ DTEND;TZID=Europe/Copenhagen:20250716T154500
 DTSTAMP:20250716T130000Z
 UID:b20250716111dv07301500100Ultralydtilhjem
 DESCRIPTION:Hosinfo Summary: "Ultralyd"\nHosinfo description: "07:30 - 15:
- 00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -479,7 +479,7 @@ DTEND;TZID=Europe/Copenhagen:20250717T073000
 DTSTAMP:20250717T044500Z
 UID:b20250717111dv07301500100AMAblaatilarbejde
 DESCRIPTION:Hosinfo Summary: "AMA blaa"\nHosinfo description: "07:30 - 15:
- 00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -488,7 +488,7 @@ DTEND;TZID=Europe/Copenhagen:20250717T154500
 DTSTAMP:20250717T130000Z
 UID:b20250717111dv07301500100AMAblaatilhjem
 DESCRIPTION:Hosinfo Summary: "AMA blaa"\nHosinfo description: "07:30 - 15:
- 00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -497,7 +497,7 @@ DTEND;TZID=Europe/Copenhagen:20250718T073000
 DTSTAMP:20250718T044500Z
 UID:b20250718111dvf07301430100CT1tilarbejde
 DESCRIPTION:Hosinfo Summary: "CT 1"\nHosinfo description: "07:30 - 14:30  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -506,7 +506,7 @@ DTEND;TZID=Europe/Copenhagen:20250718T151500
 DTSTAMP:20250718T123000Z
 UID:b20250718111dvf07301430100CT1tilhjem
 DESCRIPTION:Hosinfo Summary: "CT 1"\nHosinfo description: "07:30 - 14:30  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -535,7 +535,7 @@ DTEND;TZID=Europe/Copenhagen:20250723T090000
 DTSTAMP:20250723T061500Z
 UID:b20250723111SV09001630100AMAblaaSenvagttilarbejde
 DESCRIPTION:Hosinfo Summary: ">> AMA blaa  /  Senvagt"\nHosinfo descriptio
- n: "09:00 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ n: "09:00 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -544,7 +544,7 @@ DTEND;TZID=Europe/Copenhagen:20250723T171500
 DTSTAMP:20250723T143000Z
 UID:b20250723111SV09001630100AMAblaaSenvagttilhjem
 DESCRIPTION:Hosinfo Summary: ">> AMA blaa  /  Senvagt"\nHosinfo descriptio
- n: "09:00 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ n: "09:00 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -553,7 +553,7 @@ DTEND;TZID=Europe/Copenhagen:20250724T073000
 DTSTAMP:20250724T044500Z
 UID:b20250724111dv07301500100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -562,7 +562,7 @@ DTEND;TZID=Europe/Copenhagen:20250724T154500
 DTSTAMP:20250724T130000Z
 UID:b20250724111dv07301500100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -571,7 +571,7 @@ DTEND;TZID=Europe/Copenhagen:20250726T143000
 DTSTAMP:20250726T110000Z
 UID:b20250726111a14302200100atilarbejde
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -580,7 +580,7 @@ DTEND;TZID=Europe/Copenhagen:20250726T233000
 DTSTAMP:20250726T200000Z
 UID:b20250726111a14302200100atilhjem
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -589,7 +589,7 @@ DTEND;TZID=Europe/Copenhagen:20250727T143000
 DTSTAMP:20250727T110000Z
 UID:b20250727111a14302200100atilarbejde
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -598,7 +598,7 @@ DTEND;TZID=Europe/Copenhagen:20250727T233000
 DTSTAMP:20250727T200000Z
 UID:b20250727111a14302200100atilhjem
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -607,7 +607,7 @@ DTEND;TZID=Europe/Copenhagen:20250728T090000
 DTSTAMP:20250728T061500Z
 UID:b20250728111SV09001630100EkstraSenvagttilarbejde
 DESCRIPTION:Hosinfo Summary: ">> Ekstra  /  Senvagt"\nHosinfo description:
-  "09:00 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+  "09:00 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -616,7 +616,7 @@ DTEND;TZID=Europe/Copenhagen:20250728T171500
 DTSTAMP:20250728T143000Z
 UID:b20250728111SV09001630100EkstraSenvagttilhjem
 DESCRIPTION:Hosinfo Summary: ">> Ekstra  /  Senvagt"\nHosinfo description:
-  "09:00 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+  "09:00 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -625,7 +625,7 @@ DTEND;TZID=Europe/Copenhagen:20250729T073000
 DTSTAMP:20250729T044500Z
 UID:b20250729111dv07301500100CTAMAtilarbejde
 DESCRIPTION:Hosinfo Summary: "CT AMA"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -634,7 +634,7 @@ DTEND;TZID=Europe/Copenhagen:20250729T154500
 DTSTAMP:20250729T130000Z
 UID:b20250729111dv07301500100CTAMAtilhjem
 DESCRIPTION:Hosinfo Summary: "CT AMA"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -643,7 +643,7 @@ DTEND;TZID=Europe/Copenhagen:20250731T073000
 DTSTAMP:20250731T044500Z
 UID:b20250731111dv07301500100Blaatilarbejde
 DESCRIPTION:Hosinfo Summary: "Blaa"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -652,7 +652,7 @@ DTEND;TZID=Europe/Copenhagen:20250731T154500
 DTSTAMP:20250731T130000Z
 UID:b20250731111dv07301500100Blaatilhjem
 DESCRIPTION:Hosinfo Summary: "Blaa"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -661,7 +661,7 @@ DTEND;TZID=Europe/Copenhagen:20250801T073000
 DTSTAMP:20250801T044500Z
 UID:b20250801111dvf07301430100CT1tilarbejde
 DESCRIPTION:Hosinfo Summary: "CT 1"\nHosinfo description: "07:30 - 14:30  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -670,7 +670,7 @@ DTEND;TZID=Europe/Copenhagen:20250801T151500
 DTSTAMP:20250801T123000Z
 UID:b20250801111dvf07301430100CT1tilhjem
 DESCRIPTION:Hosinfo Summary: "CT 1"\nHosinfo description: "07:30 - 14:30  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -697,7 +697,7 @@ DTEND;TZID=Europe/Copenhagen:20250806T073000
 DTSTAMP:20250806T044500Z
 UID:b20250806111Ferie07301500730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -706,7 +706,7 @@ DTEND;TZID=Europe/Copenhagen:20250806T154500
 DTSTAMP:20250806T130000Z
 UID:b20250806111Ferie07301500730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -715,7 +715,7 @@ DTEND;TZID=Europe/Copenhagen:20250807T073000
 DTSTAMP:20250807T044500Z
 UID:b20250807111Ferie07301500730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -724,7 +724,7 @@ DTEND;TZID=Europe/Copenhagen:20250807T154500
 DTSTAMP:20250807T130000Z
 UID:b20250807111Ferie07301500730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -733,7 +733,7 @@ DTEND;TZID=Europe/Copenhagen:20250808T073000
 DTSTAMP:20250808T044500Z
 UID:b20250808111Ferie07301430730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 14
- :30 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :30 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -742,7 +742,7 @@ DTEND;TZID=Europe/Copenhagen:20250808T151500
 DTSTAMP:20250808T123000Z
 UID:b20250808111Ferie07301430730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 14
- :30 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :30 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -751,7 +751,7 @@ DTEND;TZID=Europe/Copenhagen:20250811T073000
 DTSTAMP:20250811T044500Z
 UID:b20250811111Ferie07301500730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -760,7 +760,7 @@ DTEND;TZID=Europe/Copenhagen:20250811T154500
 DTSTAMP:20250811T130000Z
 UID:b20250811111Ferie07301500730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -769,7 +769,7 @@ DTEND;TZID=Europe/Copenhagen:20250812T073000
 DTSTAMP:20250812T044500Z
 UID:b20250812111Ferie07301500730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -778,7 +778,7 @@ DTEND;TZID=Europe/Copenhagen:20250812T154500
 DTSTAMP:20250812T130000Z
 UID:b20250812111Ferie07301500730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -787,7 +787,7 @@ DTEND;TZID=Europe/Copenhagen:20250813T073000
 DTSTAMP:20250813T044500Z
 UID:b20250813111Ferie07301500730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -796,7 +796,7 @@ DTEND;TZID=Europe/Copenhagen:20250813T154500
 DTSTAMP:20250813T130000Z
 UID:b20250813111Ferie07301500730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -805,7 +805,7 @@ DTEND;TZID=Europe/Copenhagen:20250814T073000
 DTSTAMP:20250814T044500Z
 UID:b20250814111Ferie07301500730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -814,7 +814,7 @@ DTEND;TZID=Europe/Copenhagen:20250814T154500
 DTSTAMP:20250814T130000Z
 UID:b20250814111Ferie07301500730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -823,7 +823,7 @@ DTEND;TZID=Europe/Copenhagen:20250815T073000
 DTSTAMP:20250815T044500Z
 UID:b20250815111Ferie07301430730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 14
- :30 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :30 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -832,7 +832,7 @@ DTEND;TZID=Europe/Copenhagen:20250815T151500
 DTSTAMP:20250815T123000Z
 UID:b20250815111Ferie07301430730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 14
- :30 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :30 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -841,7 +841,7 @@ DTEND;TZID=Europe/Copenhagen:20250819T073000
 DTSTAMP:20250819T044500Z
 UID:b20250819111Ferie07301500730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -850,7 +850,7 @@ DTEND;TZID=Europe/Copenhagen:20250819T154500
 DTSTAMP:20250819T130000Z
 UID:b20250819111Ferie07301500730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -859,7 +859,7 @@ DTEND;TZID=Europe/Copenhagen:20250820T073000
 DTSTAMP:20250820T044500Z
 UID:b20250820111Ferie07301500730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -868,7 +868,7 @@ DTEND;TZID=Europe/Copenhagen:20250820T154500
 DTSTAMP:20250820T130000Z
 UID:b20250820111Ferie07301500730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -877,7 +877,7 @@ DTEND;TZID=Europe/Copenhagen:20250821T073000
 DTSTAMP:20250821T044500Z
 UID:b20250821111Ferie07301500730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -886,7 +886,7 @@ DTEND;TZID=Europe/Copenhagen:20250821T154500
 DTSTAMP:20250821T130000Z
 UID:b20250821111Ferie07301500730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -895,7 +895,7 @@ DTEND;TZID=Europe/Copenhagen:20250822T073000
 DTSTAMP:20250822T044500Z
 UID:b20250822111Ferie07301430730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 14
- :30 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :30 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -904,7 +904,7 @@ DTEND;TZID=Europe/Copenhagen:20250822T151500
 DTSTAMP:20250822T123000Z
 UID:b20250822111Ferie07301430730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 14
- :30 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :30 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -913,7 +913,7 @@ DTEND;TZID=Europe/Copenhagen:20250823T090000
 DTSTAMP:20250823T061500Z
 UID:b20250823111Ferie09001630730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "09:00 - 16
- :30 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :30 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -922,7 +922,7 @@ DTEND;TZID=Europe/Copenhagen:20250823T171500
 DTSTAMP:20250823T143000Z
 UID:b20250823111Ferie09001630730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "09:00 - 16
- :30 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :30 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -931,7 +931,7 @@ DTEND;TZID=Europe/Copenhagen:20250824T073000
 DTSTAMP:20250824T044500Z
 UID:b20250824111Ferie07301500730ferietilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -940,7 +940,7 @@ DTEND;TZID=Europe/Copenhagen:20250824T154500
 DTSTAMP:20250824T130000Z
 UID:b20250824111Ferie07301500730ferietilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie"\nHosinfo description: "07:30 - 15
- :00 Ferie    (Aendret sidst: 17-06-2025 16:13:04)"
+ :00 Ferie    (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -949,7 +949,7 @@ DTEND;TZID=Europe/Copenhagen:20250826T073000
 DTSTAMP:20250826T044500Z
 UID:b20250826111LSV07301630100Ul3Senvagttilarbejde
 DESCRIPTION:Hosinfo Summary: ">> Ul-3  /  Senvagt"\nHosinfo description: "
- 07:30 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ 07:30 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -958,7 +958,7 @@ DTEND;TZID=Europe/Copenhagen:20250826T171500
 DTSTAMP:20250826T143000Z
 UID:b20250826111LSV07301630100Ul3Senvagttilhjem
 DESCRIPTION:Hosinfo Summary: ">> Ul-3  /  Senvagt"\nHosinfo description: "
- 07:30 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ 07:30 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -985,7 +985,7 @@ DTEND;TZID=Europe/Copenhagen:20250830T073000
 DTSTAMP:20250830T044500Z
 UID:b20250830111dv07301500100Weekenddagtilarbejde
 DESCRIPTION:Hosinfo Summary: "Weekend dag"\nHosinfo description: "07:30 - 
- 15:00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 15:00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -994,7 +994,7 @@ DTEND;TZID=Europe/Copenhagen:20250830T154500
 DTSTAMP:20250830T130000Z
 UID:b20250830111dv07301500100Weekenddagtilhjem
 DESCRIPTION:Hosinfo Summary: "Weekend dag"\nHosinfo description: "07:30 - 
- 15:00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 15:00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1003,7 +1003,7 @@ DTEND;TZID=Europe/Copenhagen:20250831T073000
 DTSTAMP:20250831T044500Z
 UID:b20250831111dv07301500100Weekenddagtilarbejde
 DESCRIPTION:Hosinfo Summary: "Weekend dag"\nHosinfo description: "07:30 - 
- 15:00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 15:00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1012,7 +1012,7 @@ DTEND;TZID=Europe/Copenhagen:20250831T154500
 DTSTAMP:20250831T130000Z
 UID:b20250831111dv07301500100Weekenddagtilhjem
 DESCRIPTION:Hosinfo Summary: "Weekend dag"\nHosinfo description: "07:30 - 
- 15:00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 15:00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1021,7 +1021,7 @@ DTEND;TZID=Europe/Copenhagen:20250901T143000
 DTSTAMP:20250901T110000Z
 UID:b20250901111a14302200100atilarbejde
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1030,7 +1030,7 @@ DTEND;TZID=Europe/Copenhagen:20250901T233000
 DTSTAMP:20250901T200000Z
 UID:b20250901111a14302200100atilhjem
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1039,7 +1039,7 @@ DTEND;TZID=Europe/Copenhagen:20250903T073000
 DTSTAMP:20250903T044500Z
 UID:b20250903111dv07301500100Ul3tilarbejde
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1048,7 +1048,7 @@ DTEND;TZID=Europe/Copenhagen:20250903T154500
 DTSTAMP:20250903T130000Z
 UID:b20250903111dv07301500100Ul3tilhjem
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1057,7 +1057,7 @@ DTEND;TZID=Europe/Copenhagen:20250904T073000
 DTSTAMP:20250904T044500Z
 UID:b20250904111dv07301500100CT2tilarbejde
 DESCRIPTION:Hosinfo Summary: "CT 2"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1066,7 +1066,7 @@ DTEND;TZID=Europe/Copenhagen:20250904T154500
 DTSTAMP:20250904T130000Z
 UID:b20250904111dv07301500100CT2tilhjem
 DESCRIPTION:Hosinfo Summary: "CT 2"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1075,7 +1075,7 @@ DTEND;TZID=Europe/Copenhagen:20250905T090000
 DTSTAMP:20250905T061500Z
 UID:b20250905111SV09001630100CT1Senvagttilarbejde
 DESCRIPTION:Hosinfo Summary: ">> CT 1  /  Senvagt"\nHosinfo description: "
- 09:00 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ 09:00 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1084,7 +1084,7 @@ DTEND;TZID=Europe/Copenhagen:20250905T171500
 DTSTAMP:20250905T143000Z
 UID:b20250905111SV09001630100CT1Senvagttilhjem
 DESCRIPTION:Hosinfo Summary: ">> CT 1  /  Senvagt"\nHosinfo description: "
- 09:00 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ 09:00 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1093,7 +1093,7 @@ DTEND;TZID=Europe/Copenhagen:20250908T073000
 DTSTAMP:20250908T044500Z
 UID:b20250908111dv07301500100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1102,7 +1102,7 @@ DTEND;TZID=Europe/Copenhagen:20250908T154500
 DTSTAMP:20250908T130000Z
 UID:b20250908111dv07301500100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1111,7 +1111,7 @@ DTEND;TZID=Europe/Copenhagen:20250909T073000
 DTSTAMP:20250909T044500Z
 UID:b20250909111dv07301500100AMAblaatilarbejde
 DESCRIPTION:Hosinfo Summary: "AMA blaa"\nHosinfo description: "07:30 - 15:
- 00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1120,7 +1120,7 @@ DTEND;TZID=Europe/Copenhagen:20250909T154500
 DTSTAMP:20250909T130000Z
 UID:b20250909111dv07301500100AMAblaatilhjem
 DESCRIPTION:Hosinfo Summary: "AMA blaa"\nHosinfo description: "07:30 - 15:
- 00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1129,7 +1129,7 @@ DTEND;TZID=Europe/Copenhagen:20250910T073000
 DTSTAMP:20250910T044500Z
 UID:b20250910111dv07301500100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1138,7 +1138,7 @@ DTEND;TZID=Europe/Copenhagen:20250910T154500
 DTSTAMP:20250910T130000Z
 UID:b20250910111dv07301500100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1147,7 +1147,7 @@ DTEND;TZID=Europe/Copenhagen:20250911T073000
 DTSTAMP:20250911T044500Z
 UID:b20250911111dv07301500100Ultralydtilarbejde
 DESCRIPTION:Hosinfo Summary: "Ultralyd"\nHosinfo description: "07:30 - 15:
- 00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1156,7 +1156,7 @@ DTEND;TZID=Europe/Copenhagen:20250911T154500
 DTSTAMP:20250911T130000Z
 UID:b20250911111dv07301500100Ultralydtilhjem
 DESCRIPTION:Hosinfo Summary: "Ultralyd"\nHosinfo description: "07:30 - 15:
- 00      (Aendret sidst: 17-06-2025 16:13:04)"
+ 00      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1165,7 +1165,7 @@ DTEND;TZID=Europe/Copenhagen:20250912T073000
 DTSTAMP:20250912T044500Z
 UID:b20250912111dvf07301430100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 14:30
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1174,7 +1174,7 @@ DTEND;TZID=Europe/Copenhagen:20250912T151500
 DTSTAMP:20250912T123000Z
 UID:b20250912111dvf07301430100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 14:30
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1183,7 +1183,7 @@ DTEND;TZID=Europe/Copenhagen:20250915T073000
 DTSTAMP:20250915T044500Z
 UID:b20250915111dv07301500100CTAMAtilarbejde
 DESCRIPTION:Hosinfo Summary: "CT AMA"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1192,7 +1192,7 @@ DTEND;TZID=Europe/Copenhagen:20250915T154500
 DTSTAMP:20250915T130000Z
 UID:b20250915111dv07301500100CTAMAtilhjem
 DESCRIPTION:Hosinfo Summary: "CT AMA"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1201,7 +1201,7 @@ DTEND;TZID=Europe/Copenhagen:20250916T073000
 DTSTAMP:20250916T044500Z
 UID:b20250916111dv07301500100Ul3tilarbejde
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1210,7 +1210,7 @@ DTEND;TZID=Europe/Copenhagen:20250916T154500
 DTSTAMP:20250916T130000Z
 UID:b20250916111dv07301500100Ul3tilhjem
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1219,7 +1219,7 @@ DTEND;TZID=Europe/Copenhagen:20250917T073000
 DTSTAMP:20250917T044500Z
 UID:b20250917111LSV07301630100BlaaSenvagttilarbejde
 DESCRIPTION:Hosinfo Summary: ">> Blaa  /  Senvagt"\nHosinfo description: "
- 07:30 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ 07:30 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1228,7 +1228,7 @@ DTEND;TZID=Europe/Copenhagen:20250917T171500
 DTSTAMP:20250917T143000Z
 UID:b20250917111LSV07301630100BlaaSenvagttilhjem
 DESCRIPTION:Hosinfo Summary: ">> Blaa  /  Senvagt"\nHosinfo description: "
- 07:30 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+ 07:30 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1237,7 +1237,7 @@ DTEND;TZID=Europe/Copenhagen:20250918T073000
 DTSTAMP:20250918T044500Z
 UID:b20250918111dv07301500100CT3tilarbejde
 DESCRIPTION:Hosinfo Summary: "CT 3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1246,7 +1246,7 @@ DTEND;TZID=Europe/Copenhagen:20250918T154500
 DTSTAMP:20250918T130000Z
 UID:b20250918111dv07301500100CT3tilhjem
 DESCRIPTION:Hosinfo Summary: "CT 3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1255,7 +1255,7 @@ DTEND;TZID=Europe/Copenhagen:20250920T143000
 DTSTAMP:20250920T110000Z
 UID:b20250920111a14302200100atilarbejde
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1264,7 +1264,7 @@ DTEND;TZID=Europe/Copenhagen:20250920T233000
 DTSTAMP:20250920T200000Z
 UID:b20250920111a14302200100atilhjem
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1273,7 +1273,7 @@ DTEND;TZID=Europe/Copenhagen:20250921T143000
 DTSTAMP:20250921T110000Z
 UID:b20250921111a14302200100atilarbejde
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1282,7 +1282,7 @@ DTEND;TZID=Europe/Copenhagen:20250921T233000
 DTSTAMP:20250921T200000Z
 UID:b20250921111a14302200100atilhjem
 DESCRIPTION:Hosinfo Summary: "a"\nHosinfo description: "14:30 - 22:00     
-  (Aendret sidst: 17-06-2025 16:13:04)"
+  (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1291,7 +1291,7 @@ DTEND;TZID=Europe/Copenhagen:20250922T090000
 DTSTAMP:20250922T061500Z
 UID:b20250922111SV09001630100EkstraSenvagttilarbejde
 DESCRIPTION:Hosinfo Summary: ">> Ekstra  /  Senvagt"\nHosinfo description:
-  "09:00 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+  "09:00 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1300,7 +1300,7 @@ DTEND;TZID=Europe/Copenhagen:20250922T171500
 DTSTAMP:20250922T143000Z
 UID:b20250922111SV09001630100EkstraSenvagttilhjem
 DESCRIPTION:Hosinfo Summary: ">> Ekstra  /  Senvagt"\nHosinfo description:
-  "09:00 - 16:30      (Aendret sidst: 17-06-2025 16:13:04)"
+  "09:00 - 16:30      (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1309,7 +1309,7 @@ DTEND;TZID=Europe/Copenhagen:20250923T073000
 DTSTAMP:20250923T044500Z
 UID:b20250923111dv07301500100CT2tilarbejde
 DESCRIPTION:Hosinfo Summary: "CT 2"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1318,7 +1318,7 @@ DTEND;TZID=Europe/Copenhagen:20250923T154500
 DTSTAMP:20250923T130000Z
 UID:b20250923111dv07301500100CT2tilhjem
 DESCRIPTION:Hosinfo Summary: "CT 2"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1327,7 +1327,7 @@ DTEND;TZID=Europe/Copenhagen:20250925T073000
 DTSTAMP:20250925T044500Z
 UID:b20250925111dv07301500100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1336,7 +1336,7 @@ DTEND;TZID=Europe/Copenhagen:20250925T154500
 DTSTAMP:20250925T130000Z
 UID:b20250925111dv07301500100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1345,7 +1345,7 @@ DTEND;TZID=Europe/Copenhagen:20250926T073000
 DTSTAMP:20250926T044500Z
 UID:b20250926111dvf07301430100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 14:30
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1354,7 +1354,7 @@ DTEND;TZID=Europe/Copenhagen:20250926T151500
 DTSTAMP:20250926T123000Z
 UID:b20250926111dvf07301430100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 14:30
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1381,7 +1381,7 @@ DTEND;TZID=Europe/Copenhagen:20251001T073000
 DTSTAMP:20251001T044500Z
 UID:b20251001111dv07301500100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1390,7 +1390,7 @@ DTEND;TZID=Europe/Copenhagen:20251001T154500
 DTSTAMP:20251001T130000Z
 UID:b20251001111dv07301500100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1399,7 +1399,7 @@ DTEND;TZID=Europe/Copenhagen:20251002T073000
 DTSTAMP:20251002T044500Z
 UID:b20251002111dv07301500100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1408,7 +1408,7 @@ DTEND;TZID=Europe/Copenhagen:20251002T154500
 DTSTAMP:20251002T130000Z
 UID:b20251002111dv07301500100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1417,7 +1417,7 @@ DTEND;TZID=Europe/Copenhagen:20251003T073000
 DTSTAMP:20251003T044500Z
 UID:b20251003111dvf07301430100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 14:30
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1426,7 +1426,7 @@ DTEND;TZID=Europe/Copenhagen:20251003T151500
 DTSTAMP:20251003T123000Z
 UID:b20251003111dvf07301430100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 14:30
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1435,7 +1435,7 @@ DTEND;TZID=Europe/Copenhagen:20251006T073000
 DTSTAMP:20251006T044500Z
 UID:b20251006111dv07301500100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1444,7 +1444,7 @@ DTEND;TZID=Europe/Copenhagen:20251006T154500
 DTSTAMP:20251006T130000Z
 UID:b20251006111dv07301500100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1453,7 +1453,7 @@ DTEND;TZID=Europe/Copenhagen:20251007T073000
 DTSTAMP:20251007T044500Z
 UID:b20251007111dv07301500100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1462,7 +1462,7 @@ DTEND;TZID=Europe/Copenhagen:20251007T154500
 DTSTAMP:20251007T130000Z
 UID:b20251007111dv07301500100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1471,7 +1471,7 @@ DTEND;TZID=Europe/Copenhagen:20251008T073000
 DTSTAMP:20251008T044500Z
 UID:b20251008111dv07301500100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1480,7 +1480,7 @@ DTEND;TZID=Europe/Copenhagen:20251008T154500
 DTSTAMP:20251008T130000Z
 UID:b20251008111dv07301500100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1489,7 +1489,7 @@ DTEND;TZID=Europe/Copenhagen:20251009T073000
 DTSTAMP:20251009T044500Z
 UID:b20251009111dv07301500100CT2tilarbejde
 DESCRIPTION:Hosinfo Summary: "CT 2"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1498,7 +1498,7 @@ DTEND;TZID=Europe/Copenhagen:20251009T154500
 DTSTAMP:20251009T130000Z
 UID:b20251009111dv07301500100CT2tilhjem
 DESCRIPTION:Hosinfo Summary: "CT 2"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1507,7 +1507,7 @@ DTEND;TZID=Europe/Copenhagen:20251010T073000
 DTSTAMP:20251010T044500Z
 UID:b20251010111dvf07301430100CT1tilarbejde
 DESCRIPTION:Hosinfo Summary: "CT 1"\nHosinfo description: "07:30 - 14:30  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1516,7 +1516,7 @@ DTEND;TZID=Europe/Copenhagen:20251010T151500
 DTSTAMP:20251010T123000Z
 UID:b20251010111dvf07301430100CT1tilhjem
 DESCRIPTION:Hosinfo Summary: "CT 1"\nHosinfo description: "07:30 - 14:30  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1525,7 +1525,7 @@ DTEND;TZID=Europe/Copenhagen:20251014T073000
 DTSTAMP:20251014T044500Z
 UID:b20251014111dv07301500100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1534,7 +1534,7 @@ DTEND;TZID=Europe/Copenhagen:20251014T154500
 DTSTAMP:20251014T130000Z
 UID:b20251014111dv07301500100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 15:00
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1543,7 +1543,7 @@ DTEND;TZID=Europe/Copenhagen:20251015T073000
 DTSTAMP:20251015T044500Z
 UID:b20251015111dv07301500100Ul3tilarbejde
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1552,7 +1552,7 @@ DTEND;TZID=Europe/Copenhagen:20251015T154500
 DTSTAMP:20251015T130000Z
 UID:b20251015111dv07301500100Ul3tilhjem
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1561,7 +1561,7 @@ DTEND;TZID=Europe/Copenhagen:20251016T073000
 DTSTAMP:20251016T044500Z
 UID:b20251016111dv07301500100Ul3tilarbejde
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1570,7 +1570,7 @@ DTEND;TZID=Europe/Copenhagen:20251016T154500
 DTSTAMP:20251016T130000Z
 UID:b20251016111dv07301500100Ul3tilhjem
 DESCRIPTION:Hosinfo Summary: "Ul-3"\nHosinfo description: "07:30 - 15:00  
-     (Aendret sidst: 17-06-2025 16:13:04)"
+     (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport til arbejde
@@ -1579,7 +1579,7 @@ DTEND;TZID=Europe/Copenhagen:20251017T073000
 DTSTAMP:20251017T044500Z
 UID:b20251017111dvf07301430100Ekstratilarbejde
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 14:30
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tranport hjem
@@ -1588,6 +1588,6 @@ DTEND;TZID=Europe/Copenhagen:20251017T151500
 DTSTAMP:20251017T123000Z
 UID:b20251017111dvf07301430100Ekstratilhjem
 DESCRIPTION:Hosinfo Summary: "Ekstra"\nHosinfo description: "07:30 - 14:30
-       (Aendret sidst: 17-06-2025 16:13:04)"
+       (Aendret sidst: 17-06-2025 20:13:00)"
 END:VEVENT
 END:VCALENDAR

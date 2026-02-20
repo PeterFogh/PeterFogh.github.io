@@ -113,7 +113,7 @@ SUMMARY:
 DTSTART;TZID=Europe/Copenhagen:20260212T163000
 DTEND;TZID=Europe/Copenhagen:20260213T000000
 DTSTAMP:20260212T153000Z
-UID:b2026021211116300000790\\10000000730290777790\\790
+UID:b2026021211116300000790\\\\10000000730290777790\\\\790
 DESCRIPTION:Hosinfo description: "16:30 - 00:00 Syg /  00:00 - 07:30 Tilka
  ld v.vaer. /  777 -  Sy"\nhosinfo_start = Timestamp('2026-02-12 16:30:00+0
  100'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2026-02-13 00:00
@@ -446,7 +446,7 @@ SUMMARY: /  ferie 6.uge 07:30 - 15
 DTSTART;TZID=Europe/Copenhagen:20260319T073000
 DTEND;TZID=Europe/Copenhagen:20260319T150000
 DTSTAMP:20260319T063000Z
-UID:b2026031911107301500752\\100ferie6uge073015
+UID:b2026031911107301500752\\\\100ferie6uge073015
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie 6.uge    (Aendret si
  dst: 18-02-2026 20:04:2"\nhosinfo_start = Timestamp('2026-03-19 07:30:00+0
  100'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2026-03-19 15:00
@@ -457,7 +457,7 @@ SUMMARY: /  ferie 6.uge 07:30 - 14:30
 DTSTART;TZID=Europe/Copenhagen:20260320T073000
 DTEND;TZID=Europe/Copenhagen:20260320T143000
 DTSTAMP:20260320T063000Z
-UID:b2026032011107301430752\\100ferie6uge07301430
+UID:b2026032011107301430752\\\\100ferie6uge07301430
 DESCRIPTION:Hosinfo description: "07:30 - 14:30 Ferie 6.uge    (Aendret si
  dst: 18-02-2026 20:04:2"\nhosinfo_start = Timestamp('2026-03-20 07:30:00+0
  100'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2026-03-20 14:30
@@ -484,7 +484,7 @@ SUMMARY: /  ferie 6.uge 07:30 - 15
 DTSTART;TZID=Europe/Copenhagen:20260323T073000
 DTEND;TZID=Europe/Copenhagen:20260323T150000
 DTSTAMP:20260323T063000Z
-UID:b2026032311107301500752\\100ferie6uge073015
+UID:b2026032311107301500752\\\\100ferie6uge073015
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie 6.uge    (Aendret si
  dst: 18-02-2026 20:04:2"\nhosinfo_start = Timestamp('2026-03-23 07:30:00+0
  100'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2026-03-23 15:00
@@ -495,7 +495,7 @@ SUMMARY: /  ferie 6.uge 07:30 - 15
 DTSTART;TZID=Europe/Copenhagen:20260324T073000
 DTEND;TZID=Europe/Copenhagen:20260324T150000
 DTSTAMP:20260324T063000Z
-UID:b2026032411107301500752\\100ferie6uge073015
+UID:b2026032411107301500752\\\\100ferie6uge073015
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie 6.uge    (Aendret si
  dst: 18-02-2026 20:04:2"\nhosinfo_start = Timestamp('2026-03-24 07:30:00+0
  100'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2026-03-24 15:00
@@ -506,7 +506,7 @@ SUMMARY: /  ferie 6.uge 07:30 - 15
 DTSTART;TZID=Europe/Copenhagen:20260325T073000
 DTEND;TZID=Europe/Copenhagen:20260325T150000
 DTSTAMP:20260325T063000Z
-UID:b2026032511107301500752\\100ferie6uge073015
+UID:b2026032511107301500752\\\\100ferie6uge073015
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie 6.uge    (Aendret si
  dst: 18-02-2026 20:04:2"\nhosinfo_start = Timestamp('2026-03-25 07:30:00+0
  100'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2026-03-25 15:00
@@ -517,7 +517,7 @@ SUMMARY: /  ferie 6.uge 07:30 - 15
 DTSTART;TZID=Europe/Copenhagen:20260326T073000
 DTEND;TZID=Europe/Copenhagen:20260326T150000
 DTSTAMP:20260326T063000Z
-UID:b2026032611107301500752\\100ferie6uge073015
+UID:b2026032611107301500752\\\\100ferie6uge073015
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie 6.uge    (Aendret si
  dst: 18-02-2026 20:04:2"\nhosinfo_start = Timestamp('2026-03-26 07:30:00+0
  100'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2026-03-26 15:00
@@ -528,7 +528,7 @@ SUMMARY: /  ferie 6.uge 07:30 - 14:30
 DTSTART;TZID=Europe/Copenhagen:20260327T073000
 DTEND;TZID=Europe/Copenhagen:20260327T143000
 DTSTAMP:20260327T063000Z
-UID:b2026032711107301430752\\100ferie6uge07301430
+UID:b2026032711107301430752\\\\100ferie6uge07301430
 DESCRIPTION:Hosinfo description: "07:30 - 14:30 Ferie 6.uge    (Aendret si
  dst: 18-02-2026 20:04:2"\nhosinfo_start = Timestamp('2026-03-27 07:30:00+0
  100'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2026-03-27 14:30
@@ -730,7 +730,7 @@ SUMMARY: /  ferie 6.uge 07:30 - 15
 DTSTART;TZID=Europe/Copenhagen:20260420T073000
 DTEND;TZID=Europe/Copenhagen:20260420T150000
 DTSTAMP:20260420T053000Z
-UID:b2026042011107301500752\\100ferie6uge073015
+UID:b2026042011107301500752\\\\100ferie6uge073015
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie 6.uge    (Aendret si
  dst: 18-02-2026 20:04:2"\nhosinfo_start = Timestamp('2026-04-20 07:30:00+0
  200'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2026-04-20 15:00
@@ -741,7 +741,7 @@ SUMMARY: /  ferie 6.uge 07:30 - 15
 DTSTART;TZID=Europe/Copenhagen:20260421T073000
 DTEND;TZID=Europe/Copenhagen:20260421T150000
 DTSTAMP:20260421T053000Z
-UID:b2026042111107301500752\\100ferie6uge073015
+UID:b2026042111107301500752\\\\100ferie6uge073015
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie 6.uge    (Aendret si
  dst: 18-02-2026 20:04:2"\nhosinfo_start = Timestamp('2026-04-21 07:30:00+0
  200'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2026-04-21 15:00
@@ -752,7 +752,7 @@ SUMMARY: /  ferie 6.uge 07:30 - 15
 DTSTART;TZID=Europe/Copenhagen:20260422T073000
 DTEND;TZID=Europe/Copenhagen:20260422T150000
 DTSTAMP:20260422T053000Z
-UID:b2026042211107301500752\\100ferie6uge073015
+UID:b2026042211107301500752\\\\100ferie6uge073015
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie 6.uge    (Aendret si
  dst: 18-02-2026 20:04:2"\nhosinfo_start = Timestamp('2026-04-22 07:30:00+0
  200'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2026-04-22 15:00
@@ -763,7 +763,7 @@ SUMMARY: /  ferie 6.uge 07:30 - 15
 DTSTART;TZID=Europe/Copenhagen:20260423T073000
 DTEND;TZID=Europe/Copenhagen:20260423T150000
 DTSTAMP:20260423T053000Z
-UID:b2026042311107301500752\\100ferie6uge073015
+UID:b2026042311107301500752\\\\100ferie6uge073015
 DESCRIPTION:Hosinfo description: "07:30 - 15:00 Ferie 6.uge    (Aendret si
  dst: 18-02-2026 20:04:2"\nhosinfo_start = Timestamp('2026-04-23 07:30:00+0
  200'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2026-04-23 15:00
@@ -774,7 +774,7 @@ SUMMARY: /  ferie 6.uge 07:30 - 14:30
 DTSTART;TZID=Europe/Copenhagen:20260424T073000
 DTEND;TZID=Europe/Copenhagen:20260424T143000
 DTSTAMP:20260424T053000Z
-UID:b2026042411107301430752\\100ferie6uge07301430
+UID:b2026042411107301430752\\\\100ferie6uge07301430
 DESCRIPTION:Hosinfo description: "07:30 - 14:30 Ferie 6.uge    (Aendret si
  dst: 18-02-2026 20:04:2"\nhosinfo_start = Timestamp('2026-04-24 07:30:00+0
  200'\, tz='Europe/Copenhagen') - hosinfo_end = Timestamp('2026-04-24 14:30

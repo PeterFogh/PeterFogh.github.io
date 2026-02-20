@@ -117,7 +117,7 @@ SUMMARY:Tranport til arbejde
 DTSTART;TZID=Europe/Copenhagen:20260212T150000
 DTEND;TZID=Europe/Copenhagen:20260212T163000
 DTSTAMP:20260212T140000Z
-UID:b2026021211116300000790\\10000000730290777790\\790tilarbejde
+UID:b2026021211116300000790\\\\10000000730290777790\\\\790tilarbejde
 DESCRIPTION:Hosinfo Summary: ""\nHosinfo description: "16:30 - 00:00 Syg /
    00:00 - 07:30 Tilkald v.vaer. /  777 -  Sy"
 END:VEVENT
@@ -126,7 +126,7 @@ SUMMARY:Tranport hjem
 DTSTART;TZID=Europe/Copenhagen:20260211T235500
 DTEND;TZID=Europe/Copenhagen:20260212T013000
 DTSTAMP:20260211T230000Z
-UID:b2026021211116300000790\\10000000730290777790\\790tilhjem
+UID:b2026021211116300000790\\\\10000000730290777790\\\\790tilhjem
 DESCRIPTION:Hosinfo Summary: ""\nHosinfo description: "16:30 - 00:00 Syg /
    00:00 - 07:30 Tilkald v.vaer. /  777 -  Sy"
 END:VEVENT
@@ -531,7 +531,7 @@ SUMMARY:Tranport til arbejde
 DTSTART;TZID=Europe/Copenhagen:20260319T064500
 DTEND;TZID=Europe/Copenhagen:20260319T073000
 DTSTAMP:20260319T054500Z
-UID:b2026031911107301500752\\100ferie6uge073015tilarbejde
+UID:b2026031911107301500752\\\\100ferie6uge073015tilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -540,7 +540,7 @@ SUMMARY:Tranport hjem
 DTSTART;TZID=Europe/Copenhagen:20260319T145500
 DTEND;TZID=Europe/Copenhagen:20260319T154500
 DTSTAMP:20260319T140000Z
-UID:b2026031911107301500752\\100ferie6uge073015tilhjem
+UID:b2026031911107301500752\\\\100ferie6uge073015tilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -549,7 +549,7 @@ SUMMARY:Tranport til arbejde
 DTSTART;TZID=Europe/Copenhagen:20260320T064500
 DTEND;TZID=Europe/Copenhagen:20260320T073000
 DTSTAMP:20260320T054500Z
-UID:b2026032011107301430752\\100ferie6uge07301430tilarbejde
+UID:b2026032011107301430752\\\\100ferie6uge07301430tilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 14:30"\nHosinfo desc
  ription: "07:30 - 14:30 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -558,7 +558,7 @@ SUMMARY:Tranport hjem
 DTSTART;TZID=Europe/Copenhagen:20260320T142500
 DTEND;TZID=Europe/Copenhagen:20260320T151500
 DTSTAMP:20260320T133000Z
-UID:b2026032011107301430752\\100ferie6uge07301430tilhjem
+UID:b2026032011107301430752\\\\100ferie6uge07301430tilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 14:30"\nHosinfo desc
  ription: "07:30 - 14:30 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -567,7 +567,7 @@ SUMMARY:Tranport til arbejde
 DTSTART;TZID=Europe/Copenhagen:20260323T064500
 DTEND;TZID=Europe/Copenhagen:20260323T073000
 DTSTAMP:20260323T054500Z
-UID:b2026032311107301500752\\100ferie6uge073015tilarbejde
+UID:b2026032311107301500752\\\\100ferie6uge073015tilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -576,7 +576,7 @@ SUMMARY:Tranport hjem
 DTSTART;TZID=Europe/Copenhagen:20260323T145500
 DTEND;TZID=Europe/Copenhagen:20260323T154500
 DTSTAMP:20260323T140000Z
-UID:b2026032311107301500752\\100ferie6uge073015tilhjem
+UID:b2026032311107301500752\\\\100ferie6uge073015tilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -585,7 +585,7 @@ SUMMARY:Tranport til arbejde
 DTSTART;TZID=Europe/Copenhagen:20260324T064500
 DTEND;TZID=Europe/Copenhagen:20260324T073000
 DTSTAMP:20260324T054500Z
-UID:b2026032411107301500752\\100ferie6uge073015tilarbejde
+UID:b2026032411107301500752\\\\100ferie6uge073015tilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -594,7 +594,7 @@ SUMMARY:Tranport hjem
 DTSTART;TZID=Europe/Copenhagen:20260324T145500
 DTEND;TZID=Europe/Copenhagen:20260324T154500
 DTSTAMP:20260324T140000Z
-UID:b2026032411107301500752\\100ferie6uge073015tilhjem
+UID:b2026032411107301500752\\\\100ferie6uge073015tilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -603,7 +603,7 @@ SUMMARY:Tranport til arbejde
 DTSTART;TZID=Europe/Copenhagen:20260325T064500
 DTEND;TZID=Europe/Copenhagen:20260325T073000
 DTSTAMP:20260325T054500Z
-UID:b2026032511107301500752\\100ferie6uge073015tilarbejde
+UID:b2026032511107301500752\\\\100ferie6uge073015tilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -612,7 +612,7 @@ SUMMARY:Tranport hjem
 DTSTART;TZID=Europe/Copenhagen:20260325T145500
 DTEND;TZID=Europe/Copenhagen:20260325T154500
 DTSTAMP:20260325T140000Z
-UID:b2026032511107301500752\\100ferie6uge073015tilhjem
+UID:b2026032511107301500752\\\\100ferie6uge073015tilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -621,7 +621,7 @@ SUMMARY:Tranport til arbejde
 DTSTART;TZID=Europe/Copenhagen:20260326T064500
 DTEND;TZID=Europe/Copenhagen:20260326T073000
 DTSTAMP:20260326T054500Z
-UID:b2026032611107301500752\\100ferie6uge073015tilarbejde
+UID:b2026032611107301500752\\\\100ferie6uge073015tilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -630,7 +630,7 @@ SUMMARY:Tranport hjem
 DTSTART;TZID=Europe/Copenhagen:20260326T145500
 DTEND;TZID=Europe/Copenhagen:20260326T154500
 DTSTAMP:20260326T140000Z
-UID:b2026032611107301500752\\100ferie6uge073015tilhjem
+UID:b2026032611107301500752\\\\100ferie6uge073015tilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -639,7 +639,7 @@ SUMMARY:Tranport til arbejde
 DTSTART;TZID=Europe/Copenhagen:20260327T064500
 DTEND;TZID=Europe/Copenhagen:20260327T073000
 DTSTAMP:20260327T054500Z
-UID:b2026032711107301430752\\100ferie6uge07301430tilarbejde
+UID:b2026032711107301430752\\\\100ferie6uge07301430tilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 14:30"\nHosinfo desc
  ription: "07:30 - 14:30 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -648,7 +648,7 @@ SUMMARY:Tranport hjem
 DTSTART;TZID=Europe/Copenhagen:20260327T142500
 DTEND;TZID=Europe/Copenhagen:20260327T151500
 DTSTAMP:20260327T133000Z
-UID:b2026032711107301430752\\100ferie6uge07301430tilhjem
+UID:b2026032711107301430752\\\\100ferie6uge07301430tilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 14:30"\nHosinfo desc
  ription: "07:30 - 14:30 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -855,7 +855,7 @@ SUMMARY:Tranport til arbejde
 DTSTART;TZID=Europe/Copenhagen:20260420T064500
 DTEND;TZID=Europe/Copenhagen:20260420T073000
 DTSTAMP:20260420T044500Z
-UID:b2026042011107301500752\\100ferie6uge073015tilarbejde
+UID:b2026042011107301500752\\\\100ferie6uge073015tilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -864,7 +864,7 @@ SUMMARY:Tranport hjem
 DTSTART;TZID=Europe/Copenhagen:20260420T145500
 DTEND;TZID=Europe/Copenhagen:20260420T154500
 DTSTAMP:20260420T130000Z
-UID:b2026042011107301500752\\100ferie6uge073015tilhjem
+UID:b2026042011107301500752\\\\100ferie6uge073015tilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -873,7 +873,7 @@ SUMMARY:Tranport til arbejde
 DTSTART;TZID=Europe/Copenhagen:20260421T064500
 DTEND;TZID=Europe/Copenhagen:20260421T073000
 DTSTAMP:20260421T044500Z
-UID:b2026042111107301500752\\100ferie6uge073015tilarbejde
+UID:b2026042111107301500752\\\\100ferie6uge073015tilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -882,7 +882,7 @@ SUMMARY:Tranport hjem
 DTSTART;TZID=Europe/Copenhagen:20260421T145500
 DTEND;TZID=Europe/Copenhagen:20260421T154500
 DTSTAMP:20260421T130000Z
-UID:b2026042111107301500752\\100ferie6uge073015tilhjem
+UID:b2026042111107301500752\\\\100ferie6uge073015tilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -891,7 +891,7 @@ SUMMARY:Tranport til arbejde
 DTSTART;TZID=Europe/Copenhagen:20260422T064500
 DTEND;TZID=Europe/Copenhagen:20260422T073000
 DTSTAMP:20260422T044500Z
-UID:b2026042211107301500752\\100ferie6uge073015tilarbejde
+UID:b2026042211107301500752\\\\100ferie6uge073015tilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -900,7 +900,7 @@ SUMMARY:Tranport hjem
 DTSTART;TZID=Europe/Copenhagen:20260422T145500
 DTEND;TZID=Europe/Copenhagen:20260422T154500
 DTSTAMP:20260422T130000Z
-UID:b2026042211107301500752\\100ferie6uge073015tilhjem
+UID:b2026042211107301500752\\\\100ferie6uge073015tilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -909,7 +909,7 @@ SUMMARY:Tranport til arbejde
 DTSTART;TZID=Europe/Copenhagen:20260423T064500
 DTEND;TZID=Europe/Copenhagen:20260423T073000
 DTSTAMP:20260423T044500Z
-UID:b2026042311107301500752\\100ferie6uge073015tilarbejde
+UID:b2026042311107301500752\\\\100ferie6uge073015tilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -918,7 +918,7 @@ SUMMARY:Tranport hjem
 DTSTART;TZID=Europe/Copenhagen:20260423T145500
 DTEND;TZID=Europe/Copenhagen:20260423T154500
 DTSTAMP:20260423T130000Z
-UID:b2026042311107301500752\\100ferie6uge073015tilhjem
+UID:b2026042311107301500752\\\\100ferie6uge073015tilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 15"\nHosinfo descrip
  tion: "07:30 - 15:00 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -927,7 +927,7 @@ SUMMARY:Tranport til arbejde
 DTSTART;TZID=Europe/Copenhagen:20260424T064500
 DTEND;TZID=Europe/Copenhagen:20260424T073000
 DTSTAMP:20260424T044500Z
-UID:b2026042411107301430752\\100ferie6uge07301430tilarbejde
+UID:b2026042411107301430752\\\\100ferie6uge07301430tilarbejde
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 14:30"\nHosinfo desc
  ription: "07:30 - 14:30 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
@@ -936,7 +936,7 @@ SUMMARY:Tranport hjem
 DTSTART;TZID=Europe/Copenhagen:20260424T142500
 DTEND;TZID=Europe/Copenhagen:20260424T151500
 DTSTAMP:20260424T123000Z
-UID:b2026042411107301430752\\100ferie6uge07301430tilhjem
+UID:b2026042411107301430752\\\\100ferie6uge07301430tilhjem
 DESCRIPTION:Hosinfo Summary: " /  ferie 6.uge 07:30 - 14:30"\nHosinfo desc
  ription: "07:30 - 14:30 Ferie 6.uge    (Aendret sidst: 18-02-2026 20:04:2"
 END:VEVENT
